@@ -115,6 +115,7 @@
 
 ## Jupyter Notebook 
 
+- [The-Compiler/fstring.help](https://github.com/The-Compiler/fstring.help) - Python fstring reference
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [ipazc/mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
 
@@ -140,6 +141,7 @@
 
 ## Python 
 
+- [KristianOellegaard/django-health-check](https://github.com/KristianOellegaard/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
 - [sphinx-contrib/spelling](https://github.com/sphinx-contrib/spelling) - A spelling checker for Sphinx-based documentation
 - [koebi/potypo](https://github.com/koebi/potypo) - spellchecking for .po-files

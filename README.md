@@ -140,6 +140,7 @@
 
 ## Python 
 
+- [sphinx-contrib/spelling](https://github.com/sphinx-contrib/spelling) - A spelling checker for Sphinx-based documentation
 - [koebi/potypo](https://github.com/koebi/potypo) - spellchecking for .po-files
 - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant) - spellchecking library for python
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.

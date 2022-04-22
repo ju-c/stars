@@ -28,5 +28,6 @@ jobs:
           commit_message: stars update by github actions cron
           commit_user_name: ju-c
           commit_user_email: ${{secrets.EMAIL_ADDRESS}}
+          commit_author: ju-c <${{secrets.EMAIL_ADDRESS}}>
 
 

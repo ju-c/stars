@@ -21,8 +21,8 @@ jobs:
           pip install starred
       - name: 💾 update repo
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username ju-c --repository stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+          MY_TOKEN: ${{ secrets.PAT }}
+        run: starred --username ju-c --repository stars --sort --token ${MY_TOKEN} --message 'stars update by github actions cron'
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: stars update by github actions cron

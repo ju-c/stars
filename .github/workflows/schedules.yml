@@ -26,5 +26,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: stars update by github actions cron
+          commit_user_name: ju-c
+          commit_user_email: ${{secrets.EMAIL_ADDRESS}}
 
 

@@ -140,6 +140,7 @@
 
 ## Python 
 
+- [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
 - [sphinx-contrib/spelling](https://github.com/sphinx-contrib/spelling) - A spelling checker for Sphinx-based documentation
 - [koebi/potypo](https://github.com/koebi/potypo) - spellchecking for .po-files
 - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant) - spellchecking library for python

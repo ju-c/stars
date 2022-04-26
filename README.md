@@ -141,6 +141,9 @@
 
 ## Python 
 
+- [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
+- [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
+- [ubernostrum/django-flashpolicies](https://github.com/ubernostrum/django-flashpolicies) - Flash cross-domain policies for Django.
 - [ubernostrum/django-soapbox](https://github.com/ubernostrum/django-soapbox) - A Django application for announcing things
 - [vishalanandl177/DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
 - [charettes/django-seal](https://github.com/charettes/django-seal) - Django application providing queryset sealing capability.

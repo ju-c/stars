@@ -141,6 +141,9 @@
 
 ## Python 
 
+- [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+- [florimondmanca/djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key) - 🔐 API key permissions for Django REST Framework
+- [tolomea/django-data-browser](https://github.com/tolomea/django-data-browser) - Django app for user friendly querying of Django models
 - [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
 - [jazzband/django-analytical](https://github.com/jazzband/django-analytical) - Analytics services for Django projects
 - [ubernostrum/django-flashpolicies](https://github.com/ubernostrum/django-flashpolicies) - Flash cross-domain policies for Django.

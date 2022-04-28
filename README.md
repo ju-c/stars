@@ -40,7 +40,7 @@
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-- [app-generator/django-user-profile](https://github.com/app-generator/django-user-profile) - Django User Profile - Open-source Django Sample | AppSeed
+- [app-generator/sample-django-extended-user-profile](https://github.com/app-generator/sample-django-extended-user-profile) - Django User Profile - Open-source Django Sample | AppSeed
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
 
 ## CoffeeScript 
@@ -141,6 +141,7 @@
 
 ## Python 
 
+- [johnnymetz/johnny-metz-blog](https://github.com/johnnymetz/johnny-metz-blog) - Johnny Metz's technology blog
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [florimondmanca/djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key) - 🔐 API key permissions for Django REST Framework
 - [tolomea/django-data-browser](https://github.com/tolomea/django-data-browser) - Django app for user friendly querying of Django models
@@ -237,6 +238,7 @@
 
 ## Shell 
 
+- [wodby/docker4python](https://github.com/wodby/docker4python) - Docker-based Python web stack (works for Django)
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [feldroy/django-crash-course](https://github.com/feldroy/django-crash-course) - The issue tracker and code repository for Django Crash Course
 - [Someguy123/eos-docker](https://github.com/Someguy123/eos-docker) - EOS in a box (easy install) (Ported from steem-docker)

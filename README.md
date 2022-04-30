@@ -61,7 +61,7 @@
 
 ## HTML 
 
-- [danjac/jcasts](https://github.com/danjac/jcasts) - Simple podcast MVP
+- [danjac/podtracker](https://github.com/danjac/podtracker) - Simple podcast MVP
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
@@ -143,6 +143,8 @@
 
 ## Python 
 
+- [un33k/django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve client's IP address
+- [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [johnnymetz/johnny-metz-blog](https://github.com/johnnymetz/johnny-metz-blog) - Johnny Metz's technology blog
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [florimondmanca/djangorestframework-api-key](https://github.com/florimondmanca/djangorestframework-api-key) - 🔐 API key permissions for Django REST Framework
@@ -240,6 +242,7 @@
 
 ## Shell 
 
+- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [wodby/docker4python](https://github.com/wodby/docker4python) - Docker-based Python web stack (works for Django)
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [feldroy/django-crash-course](https://github.com/feldroy/django-crash-course) - The issue tracker and code repository for Django Crash Course

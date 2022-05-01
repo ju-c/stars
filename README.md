@@ -143,6 +143,7 @@
 
 ## Python 
 
+- [adamchainz/django-perf-rec](https://github.com/adamchainz/django-perf-rec) - Keep detailed records of the performance of your Django code.
 - [un33k/django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve client's IP address
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [johnnymetz/johnny-metz-blog](https://github.com/johnnymetz/johnny-metz-blog) - Johnny Metz's technology blog

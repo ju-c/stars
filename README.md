@@ -143,6 +143,7 @@
 
 ## Python 
 
+- [adamchainz/pytest-is-running](https://github.com/adamchainz/pytest-is-running) - pytest plugin providing a function to check if pytest is running.
 - [adamchainz/django-perf-rec](https://github.com/adamchainz/django-perf-rec) - Keep detailed records of the performance of your Django code.
 - [un33k/django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve client's IP address
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python

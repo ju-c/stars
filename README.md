@@ -143,6 +143,8 @@
 
 ## Python 
 
+- [oscarychen/drf-stripe-subscription](https://github.com/oscarychen/drf-stripe-subscription) - An out-of-box Django REST framework solution for payment and subscription management using Stripe.
+- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
 - [adamchainz/pytest-is-running](https://github.com/adamchainz/pytest-is-running) - pytest plugin providing a function to check if pytest is running.
 - [adamchainz/django-perf-rec](https://github.com/adamchainz/django-perf-rec) - Keep detailed records of the performance of your Django code.
 - [un33k/django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve client's IP address

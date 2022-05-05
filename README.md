@@ -61,7 +61,7 @@
 
 ## HTML 
 
-- [danjac/podtracker](https://github.com/danjac/podtracker) - Simple podcast MVP
+- [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast MVP
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
@@ -77,6 +77,7 @@
 
 ## JavaScript 
 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager

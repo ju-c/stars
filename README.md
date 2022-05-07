@@ -144,8 +144,9 @@
 
 ## Python 
 
+- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [oscarychen/drf-stripe-subscription](https://github.com/oscarychen/drf-stripe-subscription) - An out-of-box Django REST framework solution for payment and subscription management using Stripe.
-- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and faster.
+- [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast
 - [adamchainz/pytest-is-running](https://github.com/adamchainz/pytest-is-running) - pytest plugin providing a function to check if pytest is running.
 - [adamchainz/django-perf-rec](https://github.com/adamchainz/django-perf-rec) - Keep detailed records of the performance of your Django code.
 - [un33k/django-ipware](https://github.com/un33k/django-ipware) - A Django application to retrieve client's IP address
@@ -181,13 +182,13 @@
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [fabiocaccamo/django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - :construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.
 - [Bearle/django-web3-auth](https://github.com/Bearle/django-web3-auth) - A pluggable Django app that enables login/signup via an Ethereum wallet (a la CryptoKitties)
-- [Aristotle-Metadata-Enterprises/django-garnett](https://github.com/Aristotle-Metadata-Enterprises/django-garnett) - Django Garnett is a field level translation library that allows you to store strings in multiple languages for fields in Django - with minimal changes to your models and without having to rewrite your code.
+- [Aristotle-Metadata-Enterprises/django-garnett](https://github.com/Aristotle-Metadata-Enterprises/django-garnett) - Django Garnett is a field level translation library that allows you to store strings in multiple languages for fields in Django - with minimal changes to your models and without having to rewrite your
 - [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
 - [python/the-knights-who-say-ni](https://github.com/python/the-knights-who-say-ni) - CLA enforcement bot for Python organization projects
 - [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
 - [DaMrNelson/arknotif](https://github.com/DaMrNelson/arknotif) - Notifies you when your Lost Ark queue pops!
 - [nicois/nango](https://github.com/nicois/nango) - 
-- [Yetangitu/Spodcast](https://github.com/Yetangitu/Spodcast) - Spodcast is a caching Spotify podcast to RSS proxy. Using Spodcast you can follow Spotify-hosted netcasts/podcasts using any player which supports RSS, thus enabling the use of older hardware which is not compatible with the Spotify (web) app.
+- [Yetangitu/Spodcast](https://github.com/Yetangitu/Spodcast) - Spodcast is a caching Spotify podcast to RSS proxy. Using Spodcast you can follow Spotify-hosted netcasts/podcasts using any player which supports RSS, thus enabling the use of older hardware which is
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [idom-team/django-idom](https://github.com/idom-team/django-idom) - It's React, but for Django developers.
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.

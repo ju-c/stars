@@ -61,6 +61,7 @@
 
 ## HTML 
 
+- [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
 - [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast MVP
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
@@ -144,6 +145,7 @@
 
 ## Python 
 
+- [kalekseev/django-geoipdb-loader](https://github.com/kalekseev/django-geoipdb-loader) - Helps download and keep updated maxmind's geoip db required for django GeoIP
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [oscarychen/drf-stripe-subscription](https://github.com/oscarychen/drf-stripe-subscription) - An out-of-box Django REST framework solution for payment and subscription management using Stripe.
 - [dj-stripe/dj-stripe](https://github.com/dj-stripe/dj-stripe) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to use the Django ORM, in your code, to work with the data making it easier and fast

@@ -145,6 +145,7 @@
 
 ## Python 
 
+- [SectorLabs/django-postgres-extra](https://github.com/SectorLabs/django-postgres-extra) - Bringing all of PostgreSQL's awesomeness to Django.
 - [ehmatthes/django-simple-deploy](https://github.com/ehmatthes/django-simple-deploy) - A reusable Django app that configures your project for deployment
 - [kalekseev/django-geoipdb-loader](https://github.com/kalekseev/django-geoipdb-loader) - Helps download and keep updated maxmind's geoip db required for django GeoIP
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.

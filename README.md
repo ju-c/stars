@@ -171,7 +171,7 @@
 - [sphinx-contrib/spelling](https://github.com/sphinx-contrib/spelling) - A spelling checker for Sphinx-based documentation
 - [koebi/potypo](https://github.com/koebi/potypo) - spellchecking for .po-files
 - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant) - spellchecking library for python
-- [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
+- [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 - [guettli/django-tips](https://github.com/guettli/django-tips) - Güttli's opinionated Django Tips
 - [jazzband/django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.

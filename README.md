@@ -145,6 +145,7 @@
 
 ## Python 
 
+- [Mng-dev-ai/drf-turbo](https://github.com/Mng-dev-ai/drf-turbo) - An alternative serializer implementation for REST framework written in cython built for speed.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [Opus10/django-pgpubsub](https://github.com/Opus10/django-pgpubsub) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.
 - [SectorLabs/django-postgres-extra](https://github.com/SectorLabs/django-postgres-extra) - Bringing all of PostgreSQL's awesomeness to Django.
@@ -198,6 +199,7 @@
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [idom-team/django-idom](https://github.com/idom-team/django-idom) - It's React, but for Django developers.
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
+- [mljar/mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app and share with others
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [ubernostrum/pwned-passwords-django](https://github.com/ubernostrum/pwned-passwords-django) - Utilities for working with the Pwned Passwords database from Django.
@@ -272,7 +274,6 @@
 
 ## TypeScript 
 
-- [mljar/mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app and share with others
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [0xProject/0x-monorepo](https://github.com/0xProject/0x-monorepo) - 0x protocol monorepo - includes our smart contracts and many developer tools
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.

@@ -37,6 +37,7 @@
 
 ## CSS 
 
+- [thibaudcolas/wagtail_color_overrides](https://github.com/thibaudcolas/wagtail_color_overrides) - 
 - [kezabelle/django-technicalerrors](https://github.com/kezabelle/django-technicalerrors) - Subjectively 'better' technical debug pages for 404/500 errors.
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet

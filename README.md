@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [py-universe/django-rest-cli](https://github.com/py-universe/django-rest-cli) - Scaffold your Django Rest(DRF) projects faster with DR-CLI⚡🚀
 - [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres trigger support integrated with Django models.
 - [Mng-dev-ai/drf-turbo](https://github.com/Mng-dev-ai/drf-turbo) - An alternative serializer implementation for REST framework written in cython built for speed.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python

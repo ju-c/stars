@@ -146,6 +146,7 @@
 
 ## Python 
 
+- [zagaran/sample-django-app](https://github.com/zagaran/sample-django-app) - This is a fully runnable Django application, along with valid configuration for a number of helpful addons. This is intended to be a reference for both new and existing Django projects.
 - [realpython/django-slow-tests](https://github.com/realpython/django-slow-tests) - Locate your slowest tests.
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
 - [py-universe/django-rest-cli](https://github.com/py-universe/django-rest-cli) - Scaffold your Django Rest(DRF) projects faster with DR-CLI⚡🚀
@@ -189,7 +190,7 @@
 - [pass-culture/pass-culture-main](https://github.com/pass-culture/pass-culture-main) - Environnement docker pour le projet pass Culture
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [RentFreeMedia/rentfreemedia](https://github.com/RentFreeMedia/rentfreemedia) - Media distribution without the platform markup. Home of the free/open source Rent Free Media distribution of Django + Wagtail.
-- [falconry/falcon](https://github.com/falconry/falcon) - The no-nonsense web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
+- [falconry/falcon](https://github.com/falconry/falcon) - The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [pretix/pretix](https://github.com/pretix/pretix) - Ticket shop application for conferences, festivals, concerts, tech events, shows, exhibitions, workshops, barcamps, etc.
 - [fabiocaccamo/django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - :construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.

@@ -145,6 +145,7 @@
 
 ## Python 
 
+- [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [python-social-auth/social-app-django](https://github.com/python-social-auth/social-app-django) - Python Social Auth - Application - Django
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [ryancheley/the-well-maintained-test](https://github.com/ryancheley/the-well-maintained-test) - Programatically tries to answer the 12 questions from Adam Johnson's blog post https://adamj.eu/tech/2021/11/04/the-well-maintained-test/

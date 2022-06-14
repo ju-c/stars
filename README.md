@@ -145,6 +145,7 @@
 
 ## Python 
 
+- [jcass77/django-apscheduler](https://github.com/jcass77/django-apscheduler) - APScheduler for Django
 - [akx/django-managerie](https://github.com/akx/django-managerie) - Expose Django management commands in the admin
 - [cobrateam/django-htmlmin](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python frameworks (not only Django, despite the name).
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python

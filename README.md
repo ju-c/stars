@@ -145,6 +145,7 @@
 
 ## Python 
 
+- [dabapps/django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request
 - [jcass77/django-apscheduler](https://github.com/jcass77/django-apscheduler) - APScheduler for Django
 - [akx/django-managerie](https://github.com/akx/django-managerie) - Expose Django management commands in the admin
 - [cobrateam/django-htmlmin](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python frameworks (not only Django, despite the name).

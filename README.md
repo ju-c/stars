@@ -62,6 +62,7 @@
 
 ## HTML 
 
+- [jacklinke/django-model-info](https://github.com/jacklinke/django-model-info) - A Django Management Command for displaying details about your project's models
 - [DjangoGirls/djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms
 - [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast MVP

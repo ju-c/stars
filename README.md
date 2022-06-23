@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge – Admin Panel Framework for your application
 - [django/djangosnippets.org](https://github.com/django/djangosnippets.org) - The code that powers djangosnippets.org, it allows users to post and share useful "snippets" of code.
 - [dabapps/django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request
 - [jcass77/django-apscheduler](https://github.com/jcass77/django-apscheduler) - APScheduler for Django

@@ -147,6 +147,7 @@
 
 ## Python 
 
+- [simonw/django-sql-dashboard](https://github.com/simonw/django-sql-dashboard) - Django app for building dashboards using raw SQL queries
 - [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge – Admin Panel Framework for your application
 - [django/djangosnippets.org](https://github.com/django/djangosnippets.org) - The code that powers djangosnippets.org, it allows users to post and share useful "snippets" of code.
 - [dabapps/django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request

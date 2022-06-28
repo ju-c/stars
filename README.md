@@ -148,6 +148,7 @@
 
 ## Python 
 
+- [adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
 - [Apreche/djangogoboot](https://github.com/Apreche/djangogoboot) - A Python CLI application to get a single-instance full stack Django app up and running ASAP.
 - [django-mptt/django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
 - [simonw/django-sql-dashboard](https://github.com/simonw/django-sql-dashboard) - Django app for building dashboards using raw SQL queries

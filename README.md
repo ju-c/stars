@@ -153,6 +153,7 @@
 
 ## Python 
 
+- [testdrivenio/django-heroku](https://github.com/testdrivenio/django-heroku) - A Django library for Heroku apps.
 - [Salaah01/django-form-creator](https://github.com/Salaah01/django-form-creator) - A Django app that allows users to dynamically create forms.
 - [adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
 - [Apreche/djangogoboot](https://github.com/Apreche/djangogoboot) - A Python CLI application to get a single-instance full stack Django app up and running ASAP.

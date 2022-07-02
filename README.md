@@ -92,7 +92,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Track trending stocks & crypto on social media, ARK, Senate, House Trades, insider trading, FTD, short volume and much more!
+- [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Track trending stocks & crypto on social media, ARK, Senate, House Trades, insider trading, FTD, short volume, cost to borrow and much more!
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -154,6 +154,7 @@
 
 ## Python 
 
+- [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
 - [testdrivenio/django-heroku](https://github.com/testdrivenio/django-heroku) - A Django library for Heroku apps.
 - [Salaah01/django-form-creator](https://github.com/Salaah01/django-form-creator) - A Django app that allows users to dynamically create forms.
 - [adamchainz/django-upgrade](https://github.com/adamchainz/django-upgrade) - Automatically upgrade your Django projects.
@@ -234,7 +235,7 @@
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [idom-team/django-idom](https://github.com/idom-team/django-idom) - ReactJS for Django developers.
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
-- [mljar/mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app and share with others
+- [mljar/mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app and share with non-technical users
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [ubernostrum/pwned-passwords-django](https://github.com/ubernostrum/pwned-passwords-django) - Utilities for working with the Pwned Passwords database from Django.

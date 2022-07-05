@@ -154,6 +154,7 @@
 
 ## Python 
 
+- [furious-luke/django-address](https://github.com/furious-luke/django-address) - A Django address model and field. Addresses may be specified by address components or by performing an automatic Google Maps lookup.
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.
 - [testdrivenio/django-heroku](https://github.com/testdrivenio/django-heroku) - A Django library for Heroku apps.
 - [Salaah01/django-form-creator](https://github.com/Salaah01/django-form-creator) - A Django app that allows users to dynamically create forms.
@@ -226,7 +227,7 @@
 - [fabiocaccamo/django-maintenance-mode](https://github.com/fabiocaccamo/django-maintenance-mode) - :construction: :hammer_and_wrench: shows a 503 error page when maintenance-mode is on.
 - [Bearle/django-web3-auth](https://github.com/Bearle/django-web3-auth) - A pluggable Django app that enables login/signup via an Ethereum wallet (a la CryptoKitties)
 - [Aristotle-Metadata-Enterprises/django-garnett](https://github.com/Aristotle-Metadata-Enterprises/django-garnett) - Django Garnett is a field level translation library that allows you to store strings in multiple languages for fields in Django - with minimal changes to your models and without having to rewrite your
-- [pgjones/quart](https://github.com/pgjones/quart) - Official mirror of https://gitlab.com/pgjones/quart
+- [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [python/the-knights-who-say-ni](https://github.com/python/the-knights-who-say-ni) - CLA enforcement bot for Python organization projects
 - [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
 - [DaMrNelson/arknotif](https://github.com/DaMrNelson/arknotif) - Notifies you when your Lost Ark queue pops!

@@ -154,6 +154,7 @@
 
 ## Python 
 
+- [3YOURMIND/django-add-default-value](https://github.com/3YOURMIND/django-add-default-value) - This django Migration Operation can be used to transfer a Fields default value to the database scheme.
 - [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind) - Django + Tailwind CSS = 💚
 - [furious-luke/django-address](https://github.com/furious-luke/django-address) - A Django address model and field. Addresses may be specified by address components or by performing an automatic Google Maps lookup.
 - [adamchainz/django-browser-reload](https://github.com/adamchainz/django-browser-reload) - Automatically reload your browser in development.

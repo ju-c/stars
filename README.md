@@ -154,6 +154,8 @@
 
 ## Python 
 
+- [microsoft/mssql-django](https://github.com/microsoft/mssql-django) - The Microsoft SQL Server 3rd Party Backend for Django provides a connectivity layer for Django on SQL Server or Azure SQL DB.
+- [mherrmann/django-404-middleware](https://github.com/mherrmann/django-404-middleware) - An alternative to Django's BrokenLinkEmailsMiddleware
 - [artinnok/django-swap-user](https://github.com/artinnok/django-swap-user) - (Beta) Simple and flexible way to swap default Django User
 - [3YOURMIND/django-add-default-value](https://github.com/3YOURMIND/django-add-default-value) - This django Migration Operation can be used to transfer a Fields default value to the database scheme.
 - [timonweb/django-tailwind](https://github.com/timonweb/django-tailwind) - Django + Tailwind CSS = 💚

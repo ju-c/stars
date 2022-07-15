@@ -128,6 +128,7 @@
 
 ## Jupyter Notebook 
 
+- [dlab-berkeley/Python-Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
 - [The-Compiler/fstring.help](https://github.com/The-Compiler/fstring.help) - Python fstring reference
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [ipazc/mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
@@ -154,6 +155,7 @@
 
 ## Python 
 
+- [dulacp/django-accounting](https://github.com/dulacp/django-accounting) - Accounting pluggable app for Django 1.7+ projects
 - [microsoft/mssql-django](https://github.com/microsoft/mssql-django) - The Microsoft SQL Server 3rd Party Backend for Django provides a connectivity layer for Django on SQL Server or Azure SQL DB.
 - [mherrmann/django-404-middleware](https://github.com/mherrmann/django-404-middleware) - An alternative to Django's BrokenLinkEmailsMiddleware
 - [artinnok/django-swap-user](https://github.com/artinnok/django-swap-user) - (Beta) Simple and flexible way to swap default Django User

@@ -155,6 +155,7 @@
 
 ## Python 
 
+- [cltrudeau/django-awl](https://github.com/cltrudeau/django-awl) - Miscellaneous django tools
 - [wagtail/wagtail-localize](https://github.com/wagtail/wagtail-localize) - Translation plugin for Wagtail CMS
 - [dulacp/django-accounting](https://github.com/dulacp/django-accounting) - Accounting pluggable app for Django 1.7+ projects
 - [microsoft/mssql-django](https://github.com/microsoft/mssql-django) - The Microsoft SQL Server 3rd Party Backend for Django provides a connectivity layer for Django on SQL Server or Azure SQL DB.

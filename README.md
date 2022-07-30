@@ -138,6 +138,7 @@
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [dabeaz/python-distilled](https://github.com/dabeaz/python-distilled) - Resources for Python Distilled (Book)
 - [PaulleDemon/AWS-deployment](https://github.com/PaulleDemon/AWS-deployment) - Instructions to deploy django, django channels to AWS
+- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [omerbsezer/Fast-Docker](https://github.com/omerbsezer/Fast-Docker) - This repo covers containerization and Docker Environment: Docker File, Image, Container, Commands, Volumes, Networks, Swarm, Stack, Service, possible scenarios.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -155,6 +156,7 @@
 
 ## Python 
 
+- [Lukas-Schillinger/django-queryset-feeler](https://github.com/Lukas-Schillinger/django-queryset-feeler) - tools to help understand how django querysets are executed
 - [cltrudeau/django-awl](https://github.com/cltrudeau/django-awl) - Miscellaneous django tools
 - [wagtail/wagtail-localize](https://github.com/wagtail/wagtail-localize) - Translation plugin for Wagtail CMS
 - [dulacp/django-accounting](https://github.com/dulacp/django-accounting) - Accounting pluggable app for Django 1.7+ projects
@@ -268,7 +270,6 @@
 - [Andrew-Chen-Wang/cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) - Deploying a Django project to AWS using GitHub Actions and CodeDeploy Blue/Green Deployment + EC2  (Works w/ Flask/FastAPI/Rails)
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [careercup/CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python) - Cracking the Coding Interview 6th Ed. Python Solutions
-- [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [fedecalendino/nintendeals](https://github.com/fedecalendino/nintendeals) - Library with a set of tools for scraping information about Nintendo games and its prices across all regions (NA, EU and JP).
 - [sibtc/django-production-template](https://github.com/sibtc/django-production-template) - 

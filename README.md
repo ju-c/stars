@@ -156,6 +156,8 @@
 
 ## Python 
 
+- [dabapps/django-readers](https://github.com/dabapps/django-readers) - A lightweight function-oriented toolkit for better organisation of business logic and efficient selection and projection of data in Django projects.
+- [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [Lukas-Schillinger/django-queryset-feeler](https://github.com/Lukas-Schillinger/django-queryset-feeler) - tools to help understand how django querysets are executed
 - [cltrudeau/django-awl](https://github.com/cltrudeau/django-awl) - Miscellaneous django tools
 - [wagtail/wagtail-localize](https://github.com/wagtail/wagtail-localize) - Translation plugin for Wagtail CMS

@@ -156,6 +156,7 @@
 
 ## Python 
 
+- [django-salesforce/django-salesforce](https://github.com/django-salesforce/django-salesforce) - Salesforce integration for Django's ORM using the SF REST API.
 - [dabapps/django-readers](https://github.com/dabapps/django-readers) - A lightweight function-oriented toolkit for better organisation of business logic and efficient selection and projection of data in Django projects.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pantsbuild developer workflow system
 - [Lukas-Schillinger/django-queryset-feeler](https://github.com/Lukas-Schillinger/django-queryset-feeler) - tools to help understand how django querysets are executed

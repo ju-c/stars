@@ -156,6 +156,7 @@
 
 ## Python 
 
+- [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
 - [mblayman/django-denied](https://github.com/mblayman/django-denied) - An authorization system based exclusively on allow lists
 - [django-salesforce/django-salesforce](https://github.com/django-salesforce/django-salesforce) - Salesforce integration for Django's ORM using the SF REST API.
 - [dabapps/django-readers](https://github.com/dabapps/django-readers) - A lightweight function-oriented toolkit for better organisation of business logic and efficient selection and projection of data in Django projects.

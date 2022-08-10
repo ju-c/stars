@@ -156,6 +156,7 @@
 
 ## Python 
 
+- [appliku/drf_openapi3_tutorial](https://github.com/appliku/drf_openapi3_tutorial) - Django application with DRF and drf-spectacular for tutorial https://appliku.com/post/django-rest-framework-openapi-3
 - [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.
 - [mblayman/django-denied](https://github.com/mblayman/django-denied) - An authorization system based exclusively on allow lists
@@ -198,7 +199,7 @@
 - [realpython/django-slow-tests](https://github.com/realpython/django-slow-tests) - Locate your slowest tests.
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
 - [py-universe/django-rest-cli](https://github.com/py-universe/django-rest-cli) - Scaffold your Django Rest(DRF) projects faster with DR-CLI⚡🚀
-- [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Postgres trigger support integrated with Django models.
+- [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
 - [Mng-dev-ai/drf-turbo](https://github.com/Mng-dev-ai/drf-turbo) - An alternative serializer implementation for REST framework written in cython built for speed.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [Opus10/django-pgpubsub](https://github.com/Opus10/django-pgpubsub) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.

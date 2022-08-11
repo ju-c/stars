@@ -60,6 +60,7 @@
 
 ## Go 
 
+- [danvergara/dblab](https://github.com/danvergara/dblab) - Interactive client for PostgreSQL, MySQL and SQLite3
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations

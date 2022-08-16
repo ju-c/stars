@@ -157,6 +157,8 @@
 
 ## Python 
 
+- [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
+- [pytest-dev/pytest-xprocess](https://github.com/pytest-dev/pytest-xprocess) - pytest external process plugin
 - [appliku/drf_openapi3_tutorial](https://github.com/appliku/drf_openapi3_tutorial) - Django application with DRF and drf-spectacular for tutorial https://appliku.com/post/django-rest-framework-openapi-3
 - [airspeed-velocity/asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
 - [sophilabs/django-qurl-templatetag](https://github.com/sophilabs/django-qurl-templatetag) - A Django template tag to modify url's query string.

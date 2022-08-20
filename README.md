@@ -157,6 +157,7 @@
 
 ## Python 
 
+- [mixxorz/DSLR](https://github.com/mixxorz/DSLR) - Take lightning fast snapshots of your local Postgres databases.
 - [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
 - [pytest-dev/pytest-xprocess](https://github.com/pytest-dev/pytest-xprocess) - pytest external process plugin
 - [appliku/drf_openapi3_tutorial](https://github.com/appliku/drf_openapi3_tutorial) - Django application with DRF and drf-spectacular for tutorial https://appliku.com/post/django-rest-framework-openapi-3

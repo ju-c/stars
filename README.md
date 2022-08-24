@@ -157,6 +157,7 @@
 
 ## Python 
 
+- [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [mixxorz/DSLR](https://github.com/mixxorz/DSLR) - Take lightning fast snapshots of your local Postgres databases.
 - [Frojd/django-react-templatetags](https://github.com/Frojd/django-react-templatetags) - A quick way to add React components to your Django templates.
 - [pytest-dev/pytest-xprocess](https://github.com/pytest-dev/pytest-xprocess) - pytest external process plugin
@@ -314,6 +315,7 @@
 
 ## Shell 
 
+- [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [wodby/docker4python](https://github.com/wodby/docker4python) - Docker-based Python web stack (works for Django)
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.

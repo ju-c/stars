@@ -136,6 +136,7 @@
 
 ## Others 
 
+- [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [dabeaz/python-distilled](https://github.com/dabeaz/python-distilled) - Resources for Python Distilled (Book)
 - [PaulleDemon/AWS-deployment](https://github.com/PaulleDemon/AWS-deployment) - Instructions to deploy django, django channels to AWS

@@ -158,6 +158,7 @@
 
 ## Python 
 
+- [schinckel/django-shared-property](https://github.com/schinckel/django-shared-property) - Properties that are both ORM expressions and python code.
 - [turkishviking/Python-Robocode](https://github.com/turkishviking/Python-Robocode) - A Fork of Robocode for python programming
 - [saadmk11/redis-search-django](https://github.com/saadmk11/redis-search-django) - Django package that provides auto indexing and searching capabilities for Django model instances using RediSearch.
 - [mixxorz/DSLR](https://github.com/mixxorz/DSLR) - Take lightning fast snapshots of your local Postgres databases.

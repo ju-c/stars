@@ -136,6 +136,7 @@
 
 ## Others 
 
+- [nucliweb/image-element](https://github.com/nucliweb/image-element) - Repository to collect best practices for web images 🏞
 - [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [dabeaz/python-distilled](https://github.com/dabeaz/python-distilled) - Resources for Python Distilled (Book)

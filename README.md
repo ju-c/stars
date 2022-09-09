@@ -136,6 +136,7 @@
 
 ## Others 
 
+- [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
 - [nucliweb/image-element](https://github.com/nucliweb/image-element) - Repository to collect best practices for web images 🏞
 - [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
@@ -159,6 +160,8 @@
 
 ## Python 
 
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - An audio validator for Django that checks the mime and extension of audio files
 - [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
 - [codingjoe/django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP

@@ -17,6 +17,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -133,6 +134,10 @@
 - [The-Compiler/fstring.help](https://github.com/The-Compiler/fstring.help) - Python fstring reference
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [ipazc/mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
+
+## Markdown 
+
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 
 ## Others 
 

@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [wsvincent/djangoforprofessionals](https://github.com/wsvincent/djangoforprofessionals) - Source code for Django for Professionals 4.0
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
@@ -171,6 +172,9 @@
 
 ## Python 
 
+- [ahershy/Virtual_assistant](https://github.com/ahershy/Virtual_assistant) - Transcribe speech to text, then receive a virtual assistant response to what you say from openai
+- [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector
+- [MetaMetricsInc/django-warrant](https://github.com/MetaMetricsInc/django-warrant) - Django package that uses AWS Cognito and Warrant to create a Django backend and common views.
 - [MattSegal/django-pytest-github-actions](https://github.com/MattSegal/django-pytest-github-actions) - Minimal example of getting Django + PyTest running on GitHub Actions
 - [operatorequals/git-course](https://github.com/operatorequals/git-course) - An interactive course to git
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.

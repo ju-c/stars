@@ -172,6 +172,7 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ahershy/Virtual_assistant](https://github.com/ahershy/Virtual_assistant) - Transcribe speech to text, then receive a virtual assistant response to what you say from openai
 - [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector
 - [MetaMetricsInc/django-warrant](https://github.com/MetaMetricsInc/django-warrant) - Django package that uses AWS Cognito and Warrant to create a Django backend and common views.

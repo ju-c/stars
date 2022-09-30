@@ -172,6 +172,8 @@
 
 ## Python 
 
+- [liminspace/django-mjml](https://github.com/liminspace/django-mjml) - The simplest way to use MJML in Django templates.
+- [skorokithakis/django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework. ⛺
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [ahershy/Virtual_assistant](https://github.com/ahershy/Virtual_assistant) - Transcribe speech to text, then receive a virtual assistant response to what you say from openai
 - [doableware/djongo](https://github.com/doableware/djongo) - Django and MongoDB database connector

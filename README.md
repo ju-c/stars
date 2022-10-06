@@ -173,6 +173,7 @@
 
 ## Python 
 
+- [jedie/django-tools](https://github.com/jedie/django-tools) - miscellaneous django tools
 - [liminspace/django-mjml](https://github.com/liminspace/django-mjml) - The simplest way to use MJML in Django templates.
 - [skorokithakis/django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework. ⛺
 - [python/cpython](https://github.com/python/cpython) - The Python programming language

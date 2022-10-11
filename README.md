@@ -137,6 +137,7 @@
 
 ## Jupyter Notebook 
 
+- [marlenezw/face-and-body-detector-with-mediapipe](https://github.com/marlenezw/face-and-body-detector-with-mediapipe) - This code detects face and body landmarks using mediapipe.
 - [dlab-berkeley/Python-Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.
 - [The-Compiler/fstring.help](https://github.com/The-Compiler/fstring.help) - Python fstring reference
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
@@ -173,6 +174,7 @@
 
 ## Python 
 
+- [render-examples/django](https://github.com/render-examples/django) - Getting Started wth Django on Render Example
 - [jedie/django-tools](https://github.com/jedie/django-tools) - miscellaneous django tools
 - [liminspace/django-mjml](https://github.com/liminspace/django-mjml) - The simplest way to use MJML in Django templates.
 - [skorokithakis/django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework. ⛺

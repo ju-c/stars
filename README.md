@@ -176,6 +176,9 @@
 
 ## Python 
 
+- [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- [wagtail/django-modelcluster](https://github.com/wagtail/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database
+- [joseferben/schablone](https://github.com/joseferben/schablone) - A Django starter template optimized for simplicity
 - [StefanVDWeide/flask-api-template](https://github.com/StefanVDWeide/flask-api-template) - A basic template to help kickstart development of a Flask API
 - [tomwojcik/django-fly.io-example-project](https://github.com/tomwojcik/django-fly.io-example-project) - Example Django project to test the deployment on Fly.io
 - [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - Django comments app with thread support, follow-up notifications, mail confirmation, like/dislike flags and moderation.

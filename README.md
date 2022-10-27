@@ -150,6 +150,7 @@
 
 ## Others 
 
+- [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [ju-c/software-engineering-at-google](https://github.com/ju-c/software-engineering-at-google) - My arbitrary selection of quotes and notes on the book Software engineering at Google.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
@@ -176,6 +177,9 @@
 
 ## Python 
 
+- [simonw/django_sqlite_benchmark](https://github.com/simonw/django_sqlite_benchmark) - Benchmarking Django using SQLite
+- [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
+- [lincolnloop/django-production](https://github.com/lincolnloop/django-production) - production settings for Django
 - [openedx/edx-platform](https://github.com/openedx/edx-platform) - The Open edX LMS & Studio, powering education sites around the world!
 - [HackSoftware/Django-Styleguide-Example](https://github.com/HackSoftware/Django-Styleguide-Example) - Repository for example styleguide project
 - [guettli/django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you

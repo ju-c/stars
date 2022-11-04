@@ -75,6 +75,7 @@
 
 ## HTML 
 
+- [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configura
 - [globophobe/django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - ✨ Django Semantic UI admin theme
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jacklinke/django-model-info](https://github.com/jacklinke/django-model-info) - A Django Management Command for displaying details about your project's models

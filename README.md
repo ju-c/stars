@@ -326,7 +326,7 @@
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [idom-team/django-idom](https://github.com/idom-team/django-idom) - ReactJS for Django developers.
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
-- [mljar/mercury](https://github.com/mljar/mercury) - Convert Python notebook to web app and share with non-technical users
+- [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebook to web app and share with non-technical users
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [ubernostrum/pwned-passwords-django](https://github.com/ubernostrum/pwned-passwords-django) - Utilities for working with the Pwned Passwords database from Django.

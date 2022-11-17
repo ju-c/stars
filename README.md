@@ -98,6 +98,7 @@
 
 ## JavaScript 
 
+- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [wsvincent/djangoforprofessionals](https://github.com/wsvincent/djangoforprofessionals) - Source code for Django for Professionals 4.0
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
@@ -180,6 +181,7 @@
 
 ## Python 
 
+- [ButterCMS/django-starter-buttercms](https://github.com/ButterCMS/django-starter-buttercms) - Drop-in proof-of-concept Python/Django app, fully integrated with your ButterCMS account
 - [Opus10/django-pgtransaction](https://github.com/Opus10/django-pgtransaction) - A context manager/decorator which extends Django's atomic function with the ability to set isolation level and retries for a given transaction.
 - [simonw/django_sqlite_benchmark](https://github.com/simonw/django_sqlite_benchmark) - Benchmarking Django using SQLite
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.

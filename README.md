@@ -181,6 +181,7 @@
 
 ## Python 
 
+- [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [silviolleite/django-pwa](https://github.com/silviolleite/django-pwa) - Looks like an app, feels like an app, but IS NOT an app.
 - [ButterCMS/django-starter-buttercms](https://github.com/ButterCMS/django-starter-buttercms) - Drop-in proof-of-concept Python/Django app, fully integrated with your ButterCMS account
 - [Opus10/django-pgtransaction](https://github.com/Opus10/django-pgtransaction) - A context manager/decorator which extends Django's atomic function with the ability to set isolation level and retries for a given transaction.

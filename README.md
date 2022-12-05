@@ -181,6 +181,9 @@
 
 ## Python 
 
+- [vintasoftware/django-virtual-models](https://github.com/vintasoftware/django-virtual-models) - Improve performance and maintainability with a prefetching layer in your Django project
+- [dprog-philippe-docourt/django-qr-code](https://github.com/dprog-philippe-docourt/django-qr-code) - An application that provides tools for displaying QR codes on your Django site.
+- [charettes/django-syzygy](https://github.com/charettes/django-syzygy) - Django application providing database migration tooling to automate their deployment.
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [silviolleite/django-pwa](https://github.com/silviolleite/django-pwa) - Looks like an app, feels like an app, but IS NOT an app.
 - [ButterCMS/django-starter-buttercms](https://github.com/ButterCMS/django-starter-buttercms) - Drop-in proof-of-concept Python/Django app, fully integrated with your ButterCMS account

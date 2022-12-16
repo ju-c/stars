@@ -76,6 +76,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
 - [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - The AWS Secure Environment Accelerator is a tool designed to help deploy and operate secure multi-account, multi-region AWS environments on an ongoing basis. The power of the solution is the configura
 - [globophobe/django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - ✨ Django Semantic UI admin theme
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
@@ -98,6 +99,7 @@
 
 ## JavaScript 
 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [wsvincent/djangoforprofessionals](https://github.com/wsvincent/djangoforprofessionals) - Source code for Django for Professionals 4.0
@@ -153,6 +155,7 @@
 
 ## Others 
 
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [ju-c/software-engineering-at-google](https://github.com/ju-c/software-engineering-at-google) - My arbitrary selection of quotes and notes on the book Software engineering at Google.

@@ -81,7 +81,6 @@
 - [globophobe/django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - ✨ Django Semantic UI admin theme
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [jacklinke/django-model-info](https://github.com/jacklinke/django-model-info) - A Django Management Command for displaying details about your project's models
-- [DjangoGirls/djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms
 - [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast aggregator
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
@@ -107,6 +106,7 @@
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Web application that provides alternative financial data to retail investors
+- [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -266,6 +266,7 @@
 - [django-mptt/django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing a modified pre-order traversal tree in django.
 - [simonw/django-sql-dashboard](https://github.com/simonw/django-sql-dashboard) - Django app for building dashboards using raw SQL queries
 - [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Admin – No-code Business App builder
+- [DjangoGirls/djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
 - [django/djangosnippets.org](https://github.com/django/djangosnippets.org) - The code that powers djangosnippets.org, it allows users to post and share useful "snippets" of code.
 - [dabapps/django-log-request-id](https://github.com/dabapps/django-log-request-id) - Django middleware and log filter to attach a unique ID to every log message generated as part of a request
 - [jcass77/django-apscheduler](https://github.com/jcass77/django-apscheduler) - APScheduler for Django
@@ -362,7 +363,6 @@
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [justinmayer/django-autoslug](https://github.com/justinmayer/django-autoslug) - AutoSlugField for Django. Supports (but not does not require) unidecode/pytils for transliteration. Old issue tracker is at Bitbucket: https://bitbucket.org/neithere/django-autoslug/issues
 - [Andrew-Chen-Wang/cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) - Deploying a Django project to AWS using GitHub Actions and CodeDeploy Blue/Green Deployment + EC2  (Works w/ Flask/FastAPI/Rails)
-- [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [careercup/CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python) - Cracking the Coding Interview 6th Ed. Python Solutions
 - [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
 - [fedecalendino/nintendeals](https://github.com/fedecalendino/nintendeals) - Library with a set of tools for scraping information about Nintendo games and its prices across all regions (NA, EU and JP).

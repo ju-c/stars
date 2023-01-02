@@ -183,6 +183,9 @@
 
 ## Python 
 
+- [justinmayer/django-hype](https://github.com/justinmayer/django-hype) - Referral links for Django
+- [justinmayer/kagi](https://github.com/justinmayer/kagi) - WebAuthn security keys and TOTP multi-factor authentication for Django
+- [merixstudio/django-trench](https://github.com/merixstudio/django-trench) - django-trench provides a set of REST API endpoints to supplement django-rest-framework with multi-factor authentication (MFA, 2FA). It supports both standard built-in authentication methods, as well a
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [AlexHill/django-relativity](https://github.com/AlexHill/django-relativity) - More expressive relationships for the Django ORM.
 - [bashu/django-maintenancemode](https://github.com/bashu/django-maintenancemode) - 🛠 django-maintenancemode allows you to temporary shutdown your site for maintenance work

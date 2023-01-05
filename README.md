@@ -420,6 +420,7 @@
 
 ## TypeScript 
 
+- [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [patrick91/absurd-django](https://github.com/patrick91/absurd-django) - 
 - [vscode-django/vscode-django](https://github.com/vscode-django/vscode-django) - Beautiful syntax and snippets for perfectionists with deadlines

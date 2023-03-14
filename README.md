@@ -162,6 +162,7 @@
 
 ## Others 
 
+- [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [ChocolateCharlie/TeachYourselfCS-FR](https://github.com/ChocolateCharlie/TeachYourselfCS-FR) - Traduction du guide "Teach Yourself Computer Science" en français
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
@@ -192,6 +193,7 @@
 
 ## Python 
 
+- [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [Miserlou/chords2midi](https://github.com/Miserlou/chords2midi) - Create MIDI files from numerical chord progressions!
 - [koleror/django-admin-views](https://github.com/koleror/django-admin-views) - Easily link custom admin views and direct URLs into the Django admin
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.

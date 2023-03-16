@@ -35,6 +35,7 @@
 
 ## C 
 
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 
 ## C++ 
@@ -194,6 +195,7 @@
 
 ## Python 
 
+- [ArtyomVancyan/django-mermaid](https://github.com/ArtyomVancyan/django-mermaid) - Django template tag for rendering mermaid diagrams
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [Miserlou/chords2midi](https://github.com/Miserlou/chords2midi) - Create MIDI files from numerical chord progressions!
 - [koleror/django-admin-views](https://github.com/koleror/django-admin-views) - Easily link custom admin views and direct URLs into the Django admin

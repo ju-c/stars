@@ -48,6 +48,7 @@
 
 ## CSS 
 
+- [imbhargav5/nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
 - [thibaudcolas/wagtail_color_overrides](https://github.com/thibaudcolas/wagtail_color_overrides) - 
 - [kezabelle/django-technicalerrors](https://github.com/kezabelle/django-technicalerrors) - Subjectively 'better' technical debug pages for 404/500 errors.
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française

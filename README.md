@@ -112,7 +112,6 @@
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Web application that provides alternative financial data to retail investors
-- [idom-team/django-idom](https://github.com/idom-team/django-idom) - ReactJS for Django developers.
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -371,6 +370,7 @@
 - [nicois/nango](https://github.com/nicois/nango) - 
 - [Yetangitu/Spodcast](https://github.com/Yetangitu/Spodcast) - Spodcast is a caching Spotify podcast to RSS proxy. Using Spodcast you can follow Spotify-hosted netcasts/podcasts using any player which supports RSS, thus enabling the use of older hardware which is
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
+- [reactive-python/reactpy-django](https://github.com/reactive-python/reactpy-django) - ReactJS for Django developers.
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [mljar/mercury](https://github.com/mljar/mercury) - Build Web Apps in Jupyter Notebook with Python only
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
@@ -447,6 +447,7 @@
 
 ## TypeScript 
 
+- [dilaouid/shitshit](https://github.com/dilaouid/shitshit) - 📃 A developer cheatsheet full of useful functions (multiple languages)
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create
 - [patrick91/absurd-django](https://github.com/patrick91/absurd-django) - 

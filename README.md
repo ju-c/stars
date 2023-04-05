@@ -169,7 +169,6 @@
 
 ## Others 
 
-- [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [ChocolateCharlie/TeachYourselfCS-FR](https://github.com/ChocolateCharlie/TeachYourselfCS-FR) - Traduction du guide "Teach Yourself Computer Science" en français
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
@@ -202,6 +201,7 @@
 
 - [ArtyomVancyan/django-mermaid](https://github.com/ArtyomVancyan/django-mermaid) - Django template tag for rendering mermaid diagrams
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
+- [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [Miserlou/chords2midi](https://github.com/Miserlou/chords2midi) - Create MIDI files from numerical chord progressions!
 - [koleror/django-admin-views](https://github.com/koleror/django-admin-views) - Easily link custom admin views and direct URLs into the Django admin
 - [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions.
@@ -447,6 +447,7 @@
 
 ## TypeScript 
 
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [dilaouid/shitshit](https://github.com/dilaouid/shitshit) - 📃 A developer cheatsheet full of useful functions (multiple languages)
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [pankod/superplate](https://github.com/pankod/superplate) - A well-structured production-ready frontend boilerplate with Typescript, React Testing Library, styled-component, React Query, .env, Axios, Bundle Analyzer, Prettier and 30+ plugins. superplate create

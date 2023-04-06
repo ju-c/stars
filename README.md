@@ -199,6 +199,7 @@
 
 ## Python 
 
+- [testdrivenio/django-docker-s3](https://github.com/testdrivenio/django-docker-s3) - Django + S3
 - [ArtyomVancyan/django-mermaid](https://github.com/ArtyomVancyan/django-mermaid) - Django template tag for rendering mermaid diagrams
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.

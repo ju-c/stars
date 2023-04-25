@@ -24,6 +24,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Ruby](#ruby)
+- [Rust](#rust)
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [TeX](#tex)
@@ -90,6 +91,7 @@
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms
 - [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast aggregator
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 
@@ -428,6 +430,10 @@
 
 - [DigixGlobal/digixdao-contracts](https://github.com/DigixGlobal/digixdao-contracts) - Solidity contracts for DigixDAO
 
+## Rust 
+
+- [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix
+
 ## Shell 
 
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
@@ -448,6 +454,7 @@
 
 ## TypeScript 
 
+- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [dilaouid/shitshit](https://github.com/dilaouid/shitshit) - 📃 A developer cheatsheet full of useful functions (multiple languages)
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
@@ -457,7 +464,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [0xProject/0x-monorepo](https://github.com/0xProject/0x-monorepo) - 0x protocol monorepo - includes our smart contracts and many developer tools
 - [ethers-io/ethers.js](https://github.com/ethers-io/ethers.js) - Complete Ethereum library and wallet implementation in JavaScript.
 

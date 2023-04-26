@@ -105,6 +105,7 @@
 
 ## JavaScript 
 
+- [dilaouid/AlzheimApp](https://github.com/dilaouid/AlzheimApp) - 🧠 [React Native/Expo/JS] F/OSS follow up tool for people with Alzheimer's disease. No internet connection required.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code

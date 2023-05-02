@@ -114,7 +114,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - RGPD friendly cookie manager
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-- [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Web application that provides alternative financial data to retail investors
+- [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Web application that provides more than 60 different alternative financial data to retail investors
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -203,7 +203,7 @@
 ## Python 
 
 - [testdrivenio/django-docker-s3](https://github.com/testdrivenio/django-docker-s3) - Django + S3
-- [ArtyomVancyan/django-mermaid](https://github.com/ArtyomVancyan/django-mermaid) - Django template tag for rendering mermaid diagrams
+- [ArtyomVancyan/django-mermaid](https://github.com/ArtyomVancyan/django-mermaid) - Django template tag for rendering mermaid diagrams.
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book
 - [tim-schilling/django-cairn](https://github.com/tim-schilling/django-cairn) - The passive trail guide for a Djangonaut's journey.
 - [Miserlou/chords2midi](https://github.com/Miserlou/chords2midi) - Create MIDI files from numerical chord progressions!

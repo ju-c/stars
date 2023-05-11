@@ -51,7 +51,6 @@
 ## CSS 
 
 - [imbhargav5/nextbase-nextjs13-supabase-starter](https://github.com/imbhargav5/nextbase-nextjs13-supabase-starter) - 🚀⚡️ Free Boilerplate and Starter kit for Next.js 13+, Supabase, Tailwind CSS 3.2 and TypeScript. 🚀 Next.js 🔥 Supabase 💻 TypeScript 💚 ESLint 🎨 Prettier 🐶 Husky 🧹 Lint-Staged 🧪 Jest 🧪 Testing Library 🕹️
-- [joseferben/schablone](https://github.com/joseferben/schablone) - An opinionated SaaS starter for Django
 - [thibaudcolas/wagtail_color_overrides](https://github.com/thibaudcolas/wagtail_color_overrides) - 
 - [kezabelle/django-technicalerrors](https://github.com/kezabelle/django-technicalerrors) - Subjectively 'better' technical debug pages for 404/500 errors.
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française
@@ -239,6 +238,7 @@
 - [guettli/django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you
 - [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
 - [wagtail/django-modelcluster](https://github.com/wagtail/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database
+- [joseferben/schablone](https://github.com/joseferben/schablone) - An opinionated SaaS starter for Django
 - [StefanVDWeide/flask-api-template](https://github.com/StefanVDWeide/flask-api-template) - A basic template to help kickstart development of a Flask API
 - [tomwojcik/django-fly.io-example-project](https://github.com/tomwojcik/django-fly.io-example-project) - Example Django project to test the deployment on Fly.io
 - [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - Django comments app with thread support, follow-up notifications, mail confirmation, like/dislike flags and moderation.

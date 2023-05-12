@@ -42,6 +42,7 @@
 
 ## C++ 
 
+- [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform

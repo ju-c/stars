@@ -260,12 +260,12 @@
 - [adamghill/django-fbv](https://github.com/adamghill/django-fbv) - Utilities to make function-based views cleaner, more efficient, and better tasting.
 - [adamghill/djangocon-eu-2021-conference-talk](https://github.com/adamghill/djangocon-eu-2021-conference-talk) - Code, slides, scripts and other notes for my DjangoCon EU 2021 talk.
 - [drpancake/chard](https://github.com/drpancake/chard) - A simple async/await task queue for Django. One process, no threads, no other dependencies.
-- [file-validator/file-validator](https://github.com/file-validator/file-validator) - First Python validation library to validate files using type, mime, extension, magic numbers and size ✅
+- [file-validator/file-validator](https://github.com/file-validator/file-validator) - The first Python validation package uses type, mime, extension, magic numbers, and size to validate files. ✅
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
-- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - An audio validator for Django that checks the mime and extension of audio files
+- [rzashakeri/django-audio-validator](https://github.com/rzashakeri/django-audio-validator) - Django audio validator that verifies the mime and extension of audio files.
 - [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
 - [codingjoe/django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue

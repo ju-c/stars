@@ -203,6 +203,7 @@
 
 ## Python 
 
+- [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [testdrivenio/django-docker-s3](https://github.com/testdrivenio/django-docker-s3) - Django + S3
 - [ArtyomVancyan/django-mermaid](https://github.com/ArtyomVancyan/django-mermaid) - Django template tag for rendering mermaid diagrams.
 - [cosmicpython/code](https://github.com/cosmicpython/code) - Example application code for the python architecture book

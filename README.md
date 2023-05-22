@@ -173,6 +173,7 @@
 
 ## Others 
 
+- [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through br
 - [ChocolateCharlie/TeachYourselfCS-FR](https://github.com/ChocolateCharlie/TeachYourselfCS-FR) - Traduction du guide "Teach Yourself Computer Science" en français
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC

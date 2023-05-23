@@ -360,6 +360,7 @@
 - [jazzband/django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
 - [aaugustin/django-sesame](https://github.com/aaugustin/django-sesame) - "Magic Links" - URLs with authentication tokens for one-click login
 - [danjac/realworld](https://github.com/danjac/realworld) - 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pass-culture/pass-culture-main](https://github.com/pass-culture/pass-culture-main) - Applications du pass Culture
 - [Netflix/dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [RentFreeMedia/rentfreemedia](https://github.com/RentFreeMedia/rentfreemedia) - Media distribution without the platform markup. Home of the free/open source Rent Free Media distribution of Django + Wagtail.

@@ -442,6 +442,7 @@
 
 ## Shell 
 
+- [sderev/llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox: A versatile collection of scripts and prompts leveraging large language models for tasks ranging from language processing to code review.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork) - uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, 
 - [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)

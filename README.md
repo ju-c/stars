@@ -205,6 +205,7 @@
 
 ## Python 
 
+- [sderev/llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox is a versatile collection of command-line interface (CLI) tools that utilize AI to perform various tasks, including proofreading, identifying appropriate shell commands, generating automat
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [testdrivenio/django-docker-s3](https://github.com/testdrivenio/django-docker-s3) - Django + S3
@@ -442,7 +443,6 @@
 
 ## Shell 
 
-- [sderev/llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox: A versatile collection of scripts and prompts leveraging large language models for tasks ranging from language processing to code review.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork) - uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, 
 - [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)

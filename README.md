@@ -42,6 +42,7 @@
 
 ## C++ 
 
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
@@ -205,6 +206,11 @@
 
 ## Python 
 
+- [silviogutierrez/reactivated](https://github.com/silviogutierrez/reactivated) - 
+- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+- [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
+- [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
+- [Raekkeri/django-requestlogs](https://github.com/Raekkeri/django-requestlogs) - django-requestlogs is a package providing middleware and other helpers for audit logging.
 - [sderev/llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox is a versatile collection of command-line interface (CLI) tools that utilize AI to perform various tasks, including proofreading, identifying appropriate shell commands, generating automat
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.

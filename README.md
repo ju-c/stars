@@ -387,7 +387,7 @@
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 - [reactive-python/reactpy-django](https://github.com/reactive-python/reactpy-django) - ReactPy for Django Developers
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
-- [mljar/mercury](https://github.com/mljar/mercury) - Build Web Apps in Jupyter Notebook with Python only
+- [mljar/mercury](https://github.com/mljar/mercury) - Convert Jupyter Notebooks to Web Apps
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [ubernostrum/pwned-passwords-django](https://github.com/ubernostrum/pwned-passwords-django) - Utilities for working with the Pwned Passwords database from Django.

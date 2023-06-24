@@ -158,6 +158,7 @@
 
 ## Jupyter Notebook 
 
+- [Breta01/handwriting-ocr](https://github.com/Breta01/handwriting-ocr) - OCR software for recognition of handwritten text
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [marlenezw/face-and-body-detector-with-mediapipe](https://github.com/marlenezw/face-and-body-detector-with-mediapipe) - This code detects face and body landmarks using mediapipe.
 - [dlab-berkeley/Python-Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals) - D-Lab's 12 hour introduction to Python. Learn how to create variables and functions, use control flow structures, use libraries, import data, and more, using Python and Jupyter Notebooks.

@@ -154,7 +154,7 @@
 
 ## Jinja 
 
-- [sesh/django-up](https://github.com/sesh/django-up) - Zero configuration Django deployments
+- [sesh/django-up](https://github.com/sesh/django-up) - 🚀 Zero configuration Django deployments
 
 ## Jupyter Notebook 
 
@@ -207,6 +207,7 @@
 
 ## Python 
 
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [silviogutierrez/reactivated](https://github.com/silviogutierrez/reactivated) - 
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
@@ -450,6 +451,7 @@
 
 ## Shell 
 
+- [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [m3n0sd0n4ld/uDork](https://github.com/m3n0sd0n4ld/uDork) - uDork is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories, find IoT devices, detect versions of web applications, 
 - [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)

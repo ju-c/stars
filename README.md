@@ -82,7 +82,7 @@
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
-- [ConsenSys/quorum](https://github.com/ConsenSys/quorum) - A permissioned implementation of Ethereum supporting data privacy
+- [Consensys/quorum](https://github.com/Consensys/quorum) - A permissioned implementation of Ethereum supporting data privacy
 
 ## HTML 
 
@@ -100,7 +100,7 @@
 
 ## Haskell 
 
-- [ConsenSys/constellation](https://github.com/ConsenSys/constellation) - Peer-to-peer encrypted message exchange
+- [Consensys/constellation](https://github.com/Consensys/constellation) - Peer-to-peer encrypted message exchange
 
 ## Java 
 
@@ -125,7 +125,7 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [wsvincent/restapiswithdjango](https://github.com/wsvincent/restapiswithdjango) - Source code for Django for APIs
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [ConsenSys/surya](https://github.com/ConsenSys/surya) - A set of utilities for exploring Solidity contracts
+- [Consensys/surya](https://github.com/Consensys/surya) - A set of utilities for exploring Solidity contracts
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [AugurProject/augur-app](https://github.com/AugurProject/augur-app) - Augur Desktop Electron Application
 - [ethereum/dapp-bin](https://github.com/ethereum/dapp-bin) - A place for all the ÐApps to live
@@ -143,10 +143,10 @@
 - [enzymefinance/oyente](https://github.com/enzymefinance/oyente) - An Analysis Tool for Smart Contracts
 - [ethereum/mist](https://github.com/ethereum/mist) - [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate Solidity language features.
-- [ConsenSys/cakeshop](https://github.com/ConsenSys/cakeshop) - An integrated development environment and SDK for Ethereum-like ledgers
+- [Consensys/cakeshop](https://github.com/Consensys/cakeshop) - An integrated development environment and SDK for Ethereum-like ledgers
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [ConsenSys/eth-lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
-- [ConsenSys/Tokens](https://github.com/ConsenSys/Tokens) - Ethereum Token Contracts
+- [Consensys/eth-lightwallet](https://github.com/Consensys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
+- [Consensys/Tokens](https://github.com/Consensys/Tokens) - Ethereum Token Contracts
 - [cipherzzz/erc721](https://github.com/cipherzzz/erc721) - Simple ERC721 Token Example
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -197,12 +197,12 @@
 - [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [JoinMarket-Org/joinmarket](https://github.com/JoinMarket-Org/joinmarket) - CoinJoin implementation with incentive structure to convince people to take part
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
-- [ConsenSys/ethereum-developer-tools-list](https://github.com/ConsenSys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
+- [Consensys/ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [ethereum/remix-ide](https://github.com/ethereum/remix-ide) - Documentation for Remix IDE
 - [nemild/hack-the-media](https://github.com/nemild/hack-the-media) - This repo collects examples of intentional and unintentional hacks of media sources
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) - A guide to smart contract security best practices
+- [Consensys/smart-contract-best-practices](https://github.com/Consensys/smart-contract-best-practices) - A guide to smart contract security best practices
 - [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 
 ## Python 
@@ -438,7 +438,7 @@
 - [upgradeQ/OBS-Studio-Python-Scripting-Cheatsheet-obspython-Examples-of-API](https://github.com/upgradeQ/OBS-Studio-Python-Scripting-Cheatsheet-obspython-Examples-of-API) - :black_circle: OBS Studio API with Python
 - [sec-bit/awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [ivicanikolicsg/MAIAN](https://github.com/ivicanikolicsg/MAIAN) - MAIAN: automatic tool for finding trace vulnerabilities in Ethereum smart contracts
-- [ConsenSys/mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
+- [Consensys/mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
 
 ## Ruby 
 

@@ -215,7 +215,7 @@
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
 - [Raekkeri/django-requestlogs](https://github.com/Raekkeri/django-requestlogs) - django-requestlogs is a package providing middleware and other helpers for audit logging.
 - [sderev/llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox is a versatile collection of command-line interface (CLI) tools that utilize AI to perform various tasks, including proofreading, identifying appropriate shell commands, generating automat
-- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [testdrivenio/django-docker-s3](https://github.com/testdrivenio/django-docker-s3) - Django + S3
 - [pysnippet/django-mermaid](https://github.com/pysnippet/django-mermaid) - Django template tag for rendering mermaid diagrams.

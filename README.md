@@ -23,6 +23,7 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
+- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -44,7 +45,6 @@
 
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
-- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
@@ -440,6 +440,10 @@
 - [sec-bit/awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [ivicanikolicsg/MAIAN](https://github.com/ivicanikolicsg/MAIAN) - MAIAN: automatic tool for finding trace vulnerabilities in Ethereum smart contracts
 - [Consensys/mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
+
+## QML 
+
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 
 ## Ruby 
 

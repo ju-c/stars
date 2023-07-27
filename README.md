@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [mikrl/django-llm](https://github.com/mikrl/django-llm) - A reusable django app for large language model workflows
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [silviogutierrez/reactivated](https://github.com/silviogutierrez/reactivated) - 
 - [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.

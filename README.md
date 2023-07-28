@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django
 - [mikrl/django-llm](https://github.com/mikrl/django-llm) - A reusable django app for large language model workflows
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [silviogutierrez/reactivated](https://github.com/silviogutierrez/reactivated) - 

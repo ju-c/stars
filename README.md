@@ -408,7 +408,7 @@
 - [philipn/django-rest-framework-filters](https://github.com/philipn/django-rest-framework-filters) - Better filtering for Django REST Framework
 - [valentinogagliardi/django-monitus](https://github.com/valentinogagliardi/django-monitus) - HTTP error reporting middleware(s) for Django
 - [zagaran/django-template](https://github.com/zagaran/django-template) - Django Template is a cookiecutter that automates the installation and configuration of Django with optional features.
-- [jrief/django-formset](https://github.com/jrief/django-formset) - Building beautiful Forms in Django with a contemporary User eXperience has never been easier.
+- [jrief/django-formset](https://github.com/jrief/django-formset) - The missing widgets and form manipulation library for Django
 - [fabiocaccamo/django-redirects](https://github.com/fabiocaccamo/django-redirects) - :arrow_right_hook: :white_check_mark: redirects as they should be, with full control.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - Open-source cron job and background task monitoring service, written in Python & Django
 - [rtts/djhtml](https://github.com/rtts/djhtml) - Django/Jinja template indenter

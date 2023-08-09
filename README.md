@@ -207,6 +207,8 @@
 
 ## Python 
 
+- [incuna/django-pgcrypto-fields](https://github.com/incuna/django-pgcrypto-fields) - Transparent field level encryption for Django using the pgcrypto postgresql extension.
+- [adamchainz/flake8-comprehensions](https://github.com/adamchainz/flake8-comprehensions) - ❄️ A flake8 plugin to help you write better list/set/dict comprehensions.
 - [codeinthehole/django-cacheback](https://github.com/codeinthehole/django-cacheback) - Smart caching for Django using Celery to refresh cached items asynchronously.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [carltongibson/neapolitan](https://github.com/carltongibson/neapolitan) - Quick CRUD views for Django
@@ -479,6 +481,7 @@
 
 ## TypeScript 
 
+- [AutomationPanda/awesome-web-testing-playwright](https://github.com/AutomationPanda/awesome-web-testing-playwright) - Awesome Web Testing with Playwright: The Automation Panda's Official Playwright Tutorial!
 - [dilaouid/FandomScraper](https://github.com/dilaouid/FandomScraper) - 📓 [TS] A NodeJS package to scrap fandoms wikis characters page. Only scraps the characters info section and the list of all repertoried characters.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [Shopify/restyle](https://github.com/Shopify/restyle) - A type-enforced system for building UI components in React Native with TypeScript.

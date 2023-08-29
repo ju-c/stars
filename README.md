@@ -72,6 +72,7 @@
 ## Dockerfile 
 
 - [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+- [omerbsezer/Fast-Docker](https://github.com/omerbsezer/Fast-Docker) - This repo covers containerization and Docker Environment: Docker File, Image, Container, Commands, Volumes, Networks, Swarm, Stack, Service, possible scenarios.
 
 ## Go 
 
@@ -194,7 +195,6 @@
 - [PaulleDemon/AWS-deployment](https://github.com/PaulleDemon/AWS-deployment) - Instructions to deploy django, django channels to AWS
 - [springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
-- [omerbsezer/Fast-Docker](https://github.com/omerbsezer/Fast-Docker) - This repo covers containerization and Docker Environment: Docker File, Image, Container, Commands, Volumes, Networks, Swarm, Stack, Service, possible scenarios.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.

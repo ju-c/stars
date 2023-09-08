@@ -223,7 +223,7 @@
 - [mikrl/django-llm](https://github.com/mikrl/django-llm) - A reusable django app for large language model workflows
 - [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion + DreamBooth
 - [silviogutierrez/reactivated](https://github.com/silviogutierrez/reactivated) - 
-- [openai/openai-python](https://github.com/openai/openai-python) - The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.
+- [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
 - [Raekkeri/django-requestlogs](https://github.com/Raekkeri/django-requestlogs) - django-requestlogs is a package providing middleware and other helpers for audit logging.

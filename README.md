@@ -38,6 +38,7 @@
 
 ## C 
 
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 
@@ -210,6 +211,8 @@
 
 ## Python 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through Multi-Agent Collaboration)
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [saxix/django-admin-extra-buttons](https://github.com/saxix/django-admin-extra-buttons) - 
 - [godd0t/django-docker-quickstart](https://github.com/godd0t/django-docker-quickstart) - Your all-in-one Django-Docker starter kit. Pre-configured services including PostgreSQL, Redis, Celery, with Nginx and Traefik for production. Streamlined development with included tools for testing a

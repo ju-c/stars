@@ -23,7 +23,6 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
-- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -46,6 +45,7 @@
 
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
@@ -161,6 +161,7 @@
 
 ## Jupyter Notebook 
 
+- [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [Breta01/handwriting-ocr](https://github.com/Breta01/handwriting-ocr) - OCR software for recognition of handwritten text
 - [ageron/handson-ml3](https://github.com/ageron/handson-ml3) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [marlenezw/face-and-body-detector-with-mediapipe](https://github.com/marlenezw/face-and-body-detector-with-mediapipe) - This code detects face and body landmarks using mediapipe.
@@ -212,6 +213,7 @@
 
 ## Python 
 
+- [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [makinacorpus/django-safedelete](https://github.com/makinacorpus/django-safedelete) - Mask your objects instead of deleting them from your database.
 - [lekjos/django-custom-admin-pages](https://github.com/lekjos/django-custom-admin-pages) - A Django app that allows you to register class-based views to appear in Django admin.
@@ -469,10 +471,6 @@
 - [sec-bit/awesome-buggy-erc20-tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [ivicanikolicsg/MAIAN](https://github.com/ivicanikolicsg/MAIAN) - MAIAN: automatic tool for finding trace vulnerabilities in Ethereum smart contracts
 - [Consensys/mythril](https://github.com/Consensys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
-
-## QML 
-
-- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 
 ## Ruby 
 

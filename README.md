@@ -391,7 +391,7 @@
 - [ubernostrum/django-soapbox](https://github.com/ubernostrum/django-soapbox) - A Django application for announcing things
 - [vishalanandl177/DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
 - [charettes/django-seal](https://github.com/charettes/django-seal) - Django application providing queryset sealing capability.
-- [carltongibson/django-sphinx-view](https://github.com/carltongibson/django-sphinx-view) - Serve your Sphinx docs with Django.
+- [carltongibson/django-sphinx-view](https://github.com/carltongibson/django-sphinx-view) - Django Powered Dynamic Sphinx Docs.
 - [revsys/django-health-check](https://github.com/revsys/django-health-check) - a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.
 - [barrust/pyspellchecker](https://github.com/barrust/pyspellchecker) - Pure Python Spell Checking http://pyspellchecker.readthedocs.io/en/latest/
 - [sphinx-contrib/spelling](https://github.com/sphinx-contrib/spelling) - A spelling checker for Sphinx-based documentation

@@ -215,6 +215,7 @@
 
 ## Python 
 
+- [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [cea-sec/miasm](https://github.com/cea-sec/miasm) - Reverse engineering framework in Python
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models

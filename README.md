@@ -215,6 +215,7 @@
 
 ## Python 
 
+- [arthurdejong/python-stdnum](https://github.com/arthurdejong/python-stdnum) - A Python library to provide functions to handle, parse and validate standard numbers.
 - [gip-inclusion/les-emplois](https://github.com/gip-inclusion/les-emplois) - Plate-forme numérique de l'inclusion
 - [ilikerobots/cookiecutter-vue-django](https://github.com/ilikerobots/cookiecutter-vue-django) - Vue 3 + Vite + Django with no compromises. Use Vue SFCs directly in Django Templates, DRF not required.
 - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.

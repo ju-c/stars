@@ -221,6 +221,7 @@
 
 ## Python 
 
+- [andymckay/django-google-fonts](https://github.com/andymckay/django-google-fonts) - 
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [python-cffi/cffi](https://github.com/python-cffi/cffi) - A Foreign Function Interface package for calling C libraries from Python.

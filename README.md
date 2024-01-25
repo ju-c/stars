@@ -535,6 +535,7 @@
 
 ## TypeScript 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)

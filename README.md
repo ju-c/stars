@@ -113,6 +113,7 @@
 
 ## JavaScript 
 
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [matthiask/django-json-schema-editor](https://github.com/matthiask/django-json-schema-editor) - 
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love

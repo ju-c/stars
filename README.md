@@ -39,13 +39,13 @@
 ## C 
 
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 
 ## C++ 
 
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [intel/hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
@@ -222,6 +222,8 @@
 
 ## Python 
 
+- [adamchainz/django-permissions-policy](https://github.com/adamchainz/django-permissions-policy) - Set the draft security HTTP header Permissions-Policy (previously Feature-Policy) on your Django app.
+- [sesh/post-httpstatuscodes](https://github.com/sesh/post-httpstatuscodes) - 
 - [MrBin99/django-vite](https://github.com/MrBin99/django-vite) - Integration of ViteJS in a Django project.
 - [sesh/ready](https://github.com/sesh/ready) - Are you production ready?
 - [andymckay/django-google-fonts](https://github.com/andymckay/django-google-fonts) - 

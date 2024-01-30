@@ -222,6 +222,7 @@
 
 ## Python 
 
+- [djangonaut-space/wagtail-indymeet](https://github.com/djangonaut-space/wagtail-indymeet) - Djangonaut Space site
 - [adamchainz/django-permissions-policy](https://github.com/adamchainz/django-permissions-policy) - Set the draft security HTTP header Permissions-Policy (previously Feature-Policy) on your Django app.
 - [sesh/post-httpstatuscodes](https://github.com/sesh/post-httpstatuscodes) - 
 - [MrBin99/django-vite](https://github.com/MrBin99/django-vite) - Integration of ViteJS in a Django project.
@@ -303,7 +304,7 @@
 - [AlexHill/django-relativity](https://github.com/AlexHill/django-relativity) - More expressive relationships for the Django ORM.
 - [bashu/django-maintenancemode](https://github.com/bashu/django-maintenancemode) - 🛠 django-maintenancemode allows you to temporary shutdown your site for maintenance work
 - [Tobi-De/fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience.
-- [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it faster and more fun to develop in Django
+- [boxed/django-fastdev](https://github.com/boxed/django-fastdev) - An app to make it safer, faster and more fun to develop in Django
 - [vintasoftware/django-virtual-models](https://github.com/vintasoftware/django-virtual-models) - Improve performance and maintainability with a prefetching layer in your Django project
 - [dprog-philippe-docourt/django-qr-code](https://github.com/dprog-philippe-docourt/django-qr-code) - An application that provides tools for displaying QR codes on your Django site.
 - [charettes/django-syzygy](https://github.com/charettes/django-syzygy) - Django application providing database migration tooling to automate their deployment.

@@ -222,6 +222,7 @@
 
 ## Python 
 
+- [mozilla/django-csp](https://github.com/mozilla/django-csp) - Content Security Policy for Django.
 - [djangonaut-space/wagtail-indymeet](https://github.com/djangonaut-space/wagtail-indymeet) - Djangonaut Space site
 - [adamchainz/django-permissions-policy](https://github.com/adamchainz/django-permissions-policy) - Set the draft security HTTP header Permissions-Policy (previously Feature-Policy) on your Django app.
 - [sesh/post-httpstatuscodes](https://github.com/sesh/post-httpstatuscodes) - 

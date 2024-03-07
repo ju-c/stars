@@ -222,6 +222,11 @@
 
 ## Python 
 
+- [danihodovic/django-webhook](https://github.com/danihodovic/django-webhook) - Django webhooks triggered on model changes
+- [mikeckennedy/listmonk](https://github.com/mikeckennedy/listmonk) - Listmonk Email App API Client for Python
+- [mikeckennedy/umami-python](https://github.com/mikeckennedy/umami-python) - Umami Analytics Client for Python
+- [mkalioby/django-passkeys](https://github.com/mkalioby/django-passkeys) - Django Authentication Backend For Passkeys
+- [aaronn/django-rest-framework-passwordless](https://github.com/aaronn/django-rest-framework-passwordless) - Passwordless Auth for Django REST Framework
 - [mozilla/django-csp](https://github.com/mozilla/django-csp) - Content Security Policy for Django.
 - [djangonaut-space/wagtail-indymeet](https://github.com/djangonaut-space/wagtail-indymeet) - Djangonaut Space site
 - [adamchainz/django-permissions-policy](https://github.com/adamchainz/django-permissions-policy) - Set the draft security HTTP header Permissions-Policy (previously Feature-Policy) on your Django app.
@@ -367,7 +372,7 @@
 - [cltrudeau/django-awl](https://github.com/cltrudeau/django-awl) - Miscellaneous django tools
 - [wagtail/wagtail-localize](https://github.com/wagtail/wagtail-localize) - Translation plugin for Wagtail CMS
 - [dulacp/django-accounting](https://github.com/dulacp/django-accounting) - Accounting pluggable app for Django 1.7+ projects
-- [microsoft/mssql-django](https://github.com/microsoft/mssql-django) - The Microsoft SQL Server 3rd Party Backend for Django provides a connectivity layer for Django on SQL Server or Azure SQL DB.
+- [microsoft/mssql-django](https://github.com/microsoft/mssql-django) - The Microsoft Django backend for SQL Server provides a connectivity layer for Django on SQL Server or Azure SQL DB.
 - [mherrmann/django-404-middleware](https://github.com/mherrmann/django-404-middleware) - An alternative to Django's BrokenLinkEmailsMiddleware
 - [artinnok/django-swap-user](https://github.com/artinnok/django-swap-user) - (Beta) Simple and flexible way to swap default Django User
 - [3YOURMIND/django-add-default-value](https://github.com/3YOURMIND/django-add-default-value) - This django Migration Operation can be used to transfer a Fields default value to the database scheme.

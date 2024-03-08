@@ -251,6 +251,7 @@
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - ✨ Declarative CRUD Endpoints & Tests with Django Ninja.
 - [arthurdejong/python-stdnum](https://github.com/arthurdejong/python-stdnum) - A Python library to provide functions to handle, parse and validate standard numbers.
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [gip-inclusion/les-emplois](https://github.com/gip-inclusion/les-emplois) - Plate-forme numérique de l'inclusion
 - [ilikerobots/cookiecutter-vue-django](https://github.com/ilikerobots/cookiecutter-vue-django) - Vue 3 + Vite + Django with no compromises. Use Vue SFCs directly in Django Templates, DRF not required.
 - [sunscrapers/djoser](https://github.com/sunscrapers/djoser) - REST implementation of Django authentication system.
@@ -527,6 +528,7 @@
 
 ## Shell 
 
+- [matomo-org/docker](https://github.com/matomo-org/docker) - Official Docker project for Matomo Analytics
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
@@ -550,7 +552,6 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [rauchg/next-ai-news](https://github.com/rauchg/next-ai-news) - 
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more!
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A "Notion-style" block-based extensible text editor built on top of Prosemirror and Tiptap.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!

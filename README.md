@@ -95,7 +95,6 @@
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [OmenApps/django-model-info](https://github.com/OmenApps/django-model-info) - A Django Management Command for displaying details about your project's models
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms
-- [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast aggregator
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
@@ -446,6 +445,7 @@
 - [guettli/django-tips](https://github.com/guettli/django-tips) - Güttli's opinionated Django Tips
 - [jazzband/django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
 - [aaugustin/django-sesame](https://github.com/aaugustin/django-sesame) - "Magic Links" - URLs with authentication tokens for one-click login
+- [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast aggregator
 - [danjac/realworld](https://github.com/danjac/realworld) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pass-culture/pass-culture-main](https://github.com/pass-culture/pass-culture-main) - Applications du pass Culture

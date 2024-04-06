@@ -150,7 +150,6 @@
 - [aragon/client](https://github.com/aragon/client) - (Aragon 1) Create and manage decentralized organizations on Ethereum.
 - [ethjs/ethjs](https://github.com/ethjs/ethjs) - A highly optimised, light-weight JS utility for Ethereum.
 - [facuspagnuolo/ethereum-spiking](https://github.com/facuspagnuolo/ethereum-spiking) - Spiking over the EVM
-- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [enzymefinance/oyente](https://github.com/enzymefinance/oyente) - An Analysis Tool for Smart Contracts
 - [ethereum/mist](https://github.com/ethereum/mist) - [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate Solidity language features.
@@ -545,6 +544,7 @@
 
 ## Solidity 
 
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of Solidity security issues
 
 ## TeX 

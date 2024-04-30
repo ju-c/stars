@@ -59,6 +59,7 @@
 - [kezabelle/django-technicalerrors](https://github.com/kezabelle/django-technicalerrors) - Subjectively 'better' technical debug pages for 404/500 errors.
 - [betagouv/api.gouv.fr](https://github.com/betagouv/api.gouv.fr) - Liste les API disponibles au sein de l'administration française
 - [ai/easings.net](https://github.com/ai/easings.net) - Easing Functions Cheat Sheet
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [app-generator/sample-django-extended-user-profile](https://github.com/app-generator/sample-django-extended-user-profile) - Django User Profile - Open-source Django Sample | AppSeed
 
 ## CoffeeScript 
@@ -527,7 +528,6 @@
 ## SCSS 
 
 - [otto-torino/django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5 - https://otto-torino.github.io/tag/baton/
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 ## Shell 
 

@@ -221,6 +221,10 @@
 
 ## Python 
 
+- [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
+- [Never-Over/bridge](https://github.com/Never-Over/bridge) - Automatic infrastructure for Django
+- [ehmatthes/django-first-principles](https://github.com/ehmatthes/django-first-principles) - A Django project, developed from a single file.
+- [rails-inspire-django/django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) - Build reusable components in Django, inspired by Rails ViewComponent
 - [mbi/django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.
 - [PaulGilmartin/django-queryhunter](https://github.com/PaulGilmartin/django-queryhunter) - Hunt down the lines of your Django application code which are responsible for executing the most queries.

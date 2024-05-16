@@ -223,7 +223,7 @@
 ## Python 
 
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
-- [Never-Over/bridge](https://github.com/Never-Over/bridge) - Automatic infrastructure for Django
+- [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [ehmatthes/django-first-principles](https://github.com/ehmatthes/django-first-principles) - A Django project, developed from a single file.
 - [rails-inspire-django/django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) - Build reusable components in Django, inspired by Rails ViewComponent
 - [mbi/django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.

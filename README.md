@@ -256,7 +256,7 @@
 - [dotja/django-example](https://github.com/dotja/django-example) - Django project with various example apps.
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
-- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - ☀️ Declarative Endpoints for RESTful APIs with Django Ninja.
+- [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - ☀️ Declarative Endpoints & Tests for RESTful APIs with Django Ninja.
 - [arthurdejong/python-stdnum](https://github.com/arthurdejong/python-stdnum) - A Python library to provide functions to handle, parse and validate standard numbers.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [gip-inclusion/les-emplois](https://github.com/gip-inclusion/les-emplois) - Plate-forme numérique de l'inclusion

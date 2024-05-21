@@ -246,7 +246,7 @@
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [python-cffi/cffi](https://github.com/python-cffi/cffi) - A Foreign Function Interface package for calling C libraries from Python.
-- [Ousret/charset_normalizer](https://github.com/Ousret/charset_normalizer) - Truly universal encoding detector in pure Python
+- [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control th
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing
@@ -274,7 +274,7 @@
 - [jazzband/django-rest-knox](https://github.com/jazzband/django-rest-knox) - Authentication Module for django rest auth
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code platform to build LLM Agents, workflows and applications with your data
+- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data
 - [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
 - [meeb/django-distill](https://github.com/meeb/django-distill) - Minimal configuration static site generator for Django
 - [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
@@ -583,7 +583,7 @@
 - [patrick91/absurd-django](https://github.com/patrick91/absurd-django) - 
 - [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [vscode-django/vscode-django](https://github.com/vscode-django/vscode-django) - Beautiful syntax and snippets for perfectionists with deadlines
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [0xProject/0x-monorepo](https://github.com/0xProject/0x-monorepo) - 0x protocol monorepo - includes our smart contracts and many developer tools

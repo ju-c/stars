@@ -54,6 +54,7 @@
 
 ## CSS 
 
+- [ehmatthes/django-first-principles](https://github.com/ehmatthes/django-first-principles) - A Django project, developed from a single file.
 - [joseferben/schablone](https://github.com/joseferben/schablone) - An opinionated SaaS starter for Django
 - [thibaudcolas/wagtail_color_overrides](https://github.com/thibaudcolas/wagtail_color_overrides) - 
 - [kezabelle/django-technicalerrors](https://github.com/kezabelle/django-technicalerrors) - Subjectively 'better' technical debug pages for 404/500 errors.
@@ -226,7 +227,6 @@
 - [jazzband/django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
-- [ehmatthes/django-first-principles](https://github.com/ehmatthes/django-first-principles) - A Django project, developed from a single file.
 - [rails-inspire-django/django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) - Build reusable components in Django, inspired by Rails ViewComponent
 - [mbi/django-simple-captcha](https://github.com/mbi/django-simple-captcha) - Django Simple Captcha is an extremely simple, yet highly customizable Django application to add captcha images to any Django form.
 - [fabiocaccamo/django-admin-interface](https://github.com/fabiocaccamo/django-admin-interface) - :superhero: :zap: django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.

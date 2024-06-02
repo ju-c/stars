@@ -451,7 +451,7 @@
 - [guettli/django-tips](https://github.com/guettli/django-tips) - Güttli's opinionated Django Tips
 - [jazzband/django-recurrence](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
 - [aaugustin/django-sesame](https://github.com/aaugustin/django-sesame) - "Magic Links" - URLs with authentication tokens for one-click login
-- [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast aggregator
+- [danjac/listenwave](https://github.com/danjac/listenwave) - Simple podcast aggregator
 - [danjac/realworld](https://github.com/danjac/realworld) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [pass-culture/pass-culture-main](https://github.com/pass-culture/pass-culture-main) - Applications du pass Culture

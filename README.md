@@ -297,7 +297,7 @@
 - [citusdata/django-multitenant](https://github.com/citusdata/django-multitenant) - Python/Django support for distributed multi-tenant databases like Postgres+Citus
 - [pysnippet/django-forbid](https://github.com/pysnippet/django-forbid) - Secure your Django app by controlling the access - grant or deny user access based on device and location, including VPN detection.
 - [Raekkeri/django-requestlogs](https://github.com/Raekkeri/django-requestlogs) - django-requestlogs is a package providing middleware and other helpers for audit logging.
-- [sderev/llm-toolbox](https://github.com/sderev/llm-toolbox) - LLM-Toolbox is a collection of CLI tools that utilize language models to perform various tasks, including proofreading, identifying appropriate shell commands, generating automatic commit messages, an
+- [sderev/lmtoolbox](https://github.com/sderev/lmtoolbox) - LMtoolbox is a collection of CLI tools using language models to perform various tasks: commit messages, proofreading, shell commands, and more.
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [fabiocaccamo/django-treenode](https://github.com/fabiocaccamo/django-treenode) - :deciduous_tree: probably the best abstract model/admin for your tree based stuff.
 - [testdrivenio/django-docker-s3](https://github.com/testdrivenio/django-docker-s3) - Django + S3

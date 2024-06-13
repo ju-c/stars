@@ -25,7 +25,6 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Shell](#shell)
 - [Solidity](#solidity)
 - [TeX](#tex)
@@ -135,6 +134,7 @@
 - [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Finance application that provides more than 60 different alternative data to retail investors
 - [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
+- [otto-torino/django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin - https://baton.sqrt64.it/
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [wsvincent/restapiswithdjango](https://github.com/wsvincent/restapiswithdjango) - Source code for Django for APIs
@@ -531,10 +531,6 @@
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix
-
-## SCSS 
-
-- [otto-torino/django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5 - https://otto-torino.github.io/tag/baton/
 
 ## Shell 
 

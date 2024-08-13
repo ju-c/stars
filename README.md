@@ -115,7 +115,6 @@
 
 ## JavaScript 
 
-- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) - Django admin CKEditor integration.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
@@ -483,7 +482,7 @@
 - [eth-brownie/brownie](https://github.com/eth-brownie/brownie) - A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.
 - [ubernostrum/pwned-passwords-django](https://github.com/ubernostrum/pwned-passwords-django) - Utilities for working with the Pwned Passwords database from Django.
 - [adamghill/coltrane](https://github.com/adamghill/coltrane) - A minimal app framework for content sites.
-- [pyston/pyston](https://github.com/pyston/pyston) - A faster and highly-compatible implementation of the Python programming language.
+- [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
 - [iMerica/dj-rest-auth](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework
 - [jazzband/django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
 - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
@@ -561,6 +560,7 @@
 
 ## TypeScript 
 
+- [onlook-dev/studio](https://github.com/onlook-dev/studio) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!

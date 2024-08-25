@@ -505,7 +505,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [nickjj/docker-django-example](https://github.com/nickjj/docker-django-example) - A production ready example Django app that's using Docker and Docker Compose.
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
-- [simplecto/django-reference-implementation](https://github.com/simplecto/django-reference-implementation) - Our production-ready reference implementation for Django Projects
+- [simplecto/django-reference-implementation](https://github.com/simplecto/django-reference-implementation) - A highly opinionated, production-ready, 12-factor boilerplate template for Django Projects.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ranahaani/GNews](https://github.com/ranahaani/GNews) - A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.
 - [axnsan12/drf-yasg](https://github.com/axnsan12/drf-yasg) - Automated generation of real Swagger/OpenAPI 2.0 schemas from Django REST Framework code.

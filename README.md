@@ -164,7 +164,6 @@
 - [cipherzzz/erc721](https://github.com/cipherzzz/erc721) - Simple ERC721 Token Example
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Jinja 
 
@@ -552,6 +551,7 @@
 ## Solidity 
 
 - [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of Solidity security issues
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 
 ## Svelte 
 

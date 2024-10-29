@@ -116,6 +116,7 @@
 
 ## JavaScript 
 
+- [yudataguy/beatcode](https://github.com/yudataguy/beatcode) - Leetcode space repetition memorization web app
 - [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) - Django admin CKEditor integration.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
@@ -226,6 +227,9 @@
 
 ## Python 
 
+- [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
+- [vintasoftware/django-templated-email](https://github.com/vintasoftware/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
+- [epicserve/dj-beat-drop](https://github.com/epicserve/dj-beat-drop) - A CLI for creating new Django projects
 - [buttondown/django-typescript-routes](https://github.com/buttondown/django-typescript-routes) - Generate Typescript routes from a Django URLconf
 - [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
 - [jazzband/django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.

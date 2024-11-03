@@ -428,7 +428,7 @@
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [PaulGilmartin/django-pgpubsub](https://github.com/PaulGilmartin/django-pgpubsub) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.
 - [SectorLabs/django-postgres-extra](https://github.com/SectorLabs/django-postgres-extra) - Bringing all of PostgreSQL's awesomeness to Django.
-- [ehmatthes/django-simple-deploy](https://github.com/ehmatthes/django-simple-deploy) - A reusable Django app that configures your project for deployment
+- [django-simple-deploy/django-simple-deploy](https://github.com/django-simple-deploy/django-simple-deploy) - A reusable Django app that configures your project for deployment
 - [kalekseev/django-geoipdb-loader](https://github.com/kalekseev/django-geoipdb-loader) - Helps download and keep updated maxmind's geoip db required for django GeoIP
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2

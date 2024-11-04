@@ -519,7 +519,7 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [wsvincent/drfx](https://github.com/wsvincent/drfx) - A framework for launching new Django Rest Framework projects quickly.
-- [wsvincent/djangox](https://github.com/wsvincent/djangox) - Django starter project with 🔋
+- [wsvincent/lithium](https://github.com/wsvincent/lithium) - Django starter project with 🔋
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience

@@ -138,7 +138,7 @@
 - [otto-torino/django-baton](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin - https://baton.sqrt64.it/
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [wsvincent/restapiswithdjango](https://github.com/wsvincent/restapiswithdjango) - Source code for Django for APIs
+- [wsvincent/djangoforapis](https://github.com/wsvincent/djangoforapis) - Source code for Django for APIs
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [Consensys/surya](https://github.com/Consensys/surya) - A set of utilities for exploring Solidity contracts
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
@@ -319,7 +319,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [psycopg/psycopg](https://github.com/psycopg/psycopg) - New generation PostgreSQL database adapter for the Python programming language
 - [hgrecco/pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
-- [OmenApps/django-pint-field](https://github.com/OmenApps/django-pint-field) - Use pint with Django's ORM
+- [OmenApps/django-pint-field](https://github.com/OmenApps/django-pint-field) - Store, validate, and convert physical quantities in Django using Pint.
 - [abrookins/streaming_django](https://github.com/abrookins/streaming_django) - An explanation of how Django's streaming HTTP responses work
 - [justinmayer/django-hype](https://github.com/justinmayer/django-hype) - Referral links for Django
 - [justinmayer/kagi](https://github.com/justinmayer/kagi) - WebAuthn security keys and TOTP multi-factor authentication for Django

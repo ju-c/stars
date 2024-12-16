@@ -334,7 +334,7 @@
 - [jointakahe/takahe](https://github.com/jointakahe/takahe) - An ActivityPub/Fediverse server
 - [silviolleite/django-pwa](https://github.com/silviolleite/django-pwa) - Looks like an app, feels like an app, but IS NOT an app.
 - [ButterCMS/django-starter-buttercms](https://github.com/ButterCMS/django-starter-buttercms) - Drop-in proof-of-concept Python/Django app, fully integrated with your ButterCMS account
-- [Opus10/django-pgtransaction](https://github.com/Opus10/django-pgtransaction) - A context manager/decorator which extends Django's atomic function with the ability to set isolation level and retries for a given transaction.
+- [AmbitionEng/django-pgtransaction](https://github.com/AmbitionEng/django-pgtransaction) - A context manager/decorator which extends Django's atomic function with the ability to set isolation level and retries for a given transaction.
 - [simonw/django_sqlite_benchmark](https://github.com/simonw/django_sqlite_benchmark) - Benchmarking Django using SQLite
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [lincolnloop/django-production](https://github.com/lincolnloop/django-production) - production settings for Django
@@ -422,7 +422,7 @@
 - [realpython/django-slow-tests](https://github.com/realpython/django-slow-tests) - Locate your slowest tests.
 - [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) - Formatting support for Python using the Black formatter
 - [py-universe/django-rest-cli](https://github.com/py-universe/django-rest-cli) - Scaffold your Django Rest(DRF) projects faster with DR-CLI⚡🚀
-- [Opus10/django-pgtrigger](https://github.com/Opus10/django-pgtrigger) - Write Postgres triggers for your Django models
+- [AmbitionEng/django-pgtrigger](https://github.com/AmbitionEng/django-pgtrigger) - Write Postgres triggers for your Django models
 - [Mng-dev-ai/drf-turbo](https://github.com/Mng-dev-ai/drf-turbo) - An alternative serializer implementation for REST framework written in cython built for speed.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [PaulGilmartin/django-pgpubsub](https://github.com/PaulGilmartin/django-pgpubsub) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.

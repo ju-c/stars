@@ -226,6 +226,9 @@
 
 ## Python 
 
+- [fabiocaccamo/django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - :gear: config and manage typed extra settings using just the django admin.
+- [selectnull/django-pyrepl](https://github.com/selectnull/django-pyrepl) - Use Python 3.13 REPL with Django shell
+- [ambient-innovation/django-removals](https://github.com/ambient-innovation/django-removals) - Package to check for known Django removals and deprecations
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [vintasoftware/django-templated-email](https://github.com/vintasoftware/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
 - [epicserve/dj-beat-drop](https://github.com/epicserve/dj-beat-drop) - A CLI for creating new Django projects
@@ -536,6 +539,7 @@
 
 ## Rust 
 
+- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [brettcannon/python-launcher](https://github.com/brettcannon/python-launcher) - Python launcher for Unix

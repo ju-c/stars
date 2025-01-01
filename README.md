@@ -117,7 +117,7 @@
 
 ## JavaScript 
 
-- [Urabewe/OllamaVision](https://github.com/Urabewe/OllamaVision) - An extension for SwarmUI that allows you to connect to Ollama and OpenAI to use vision models for image analysis to create image prompts.
+- [Urabewe/OllamaVision](https://github.com/Urabewe/OllamaVision) - An extension for SwarmUI that allows you to connect to Ollama, OpenAI, and OpenRouter to use vision models for image analysis to create image prompts.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [yudataguy/beatcode](https://github.com/yudataguy/beatcode) - Leetcode space repetition memorization web app
 - [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) - Django admin CKEditor integration.

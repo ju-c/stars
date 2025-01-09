@@ -2,7 +2,7 @@ name: ✨ update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-    - cron: 30 0 * * *
+    - cron: '30 0 * * *'
 jobs:
   awesome-stars:
     name: 💾 update awesome-stars
@@ -12,7 +12,7 @@ jobs:
       - name: 💂 Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.7
+          python-version: '3.9'
       - name: 📥 Install dependencies
         run: |
           python -m pip install --upgrade pip

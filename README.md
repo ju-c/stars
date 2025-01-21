@@ -567,7 +567,7 @@
 
 ## Svelte 
 
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Beautiful Status Page, batteries included
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## TeX 

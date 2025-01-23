@@ -226,6 +226,7 @@
 
 ## Python 
 
+- [manjurulhoque/doccure](https://github.com/manjurulhoque/doccure) - DocCure is a healthcare appointment management system designed to streamline the connection between doctors and patients. Built with Django and modern web technologies, it simplifies the process of fi
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django
 - [fabiocaccamo/django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - :gear: config and manage typed extra settings using just the django admin.

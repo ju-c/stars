@@ -226,6 +226,7 @@
 
 ## Python 
 
+- [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [manjurulhoque/doccure](https://github.com/manjurulhoque/doccure) - DocCure is a healthcare appointment management system designed to streamline the connection between doctors and patients. Built with Django and modern web technologies, it simplifies the process of fi
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
 - [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django
@@ -577,7 +578,7 @@
 
 ## TypeScript 
 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Figma for React. Design directly in your live React app and publish your changes to code.
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!

@@ -119,7 +119,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [yudataguy/beatcode](https://github.com/yudataguy/beatcode) - Leetcode space repetition memorization web app
 - [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) - Django admin CKEditor integration.
-- [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
+- [AnagataCetana/insomnium](https://github.com/AnagataCetana/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [matthiask/django-json-schema-editor](https://github.com/matthiask/django-json-schema-editor) - 
 - [d3vr/yt-siphon](https://github.com/d3vr/yt-siphon) - Firefox add-on to open YouTube videos in open alternative frontends (e.g: Piped)
 - [fraxken/ebook_nodejs](https://github.com/fraxken/ebook_nodejs) - Ebook - Become a Node.js developer - https://fraxken.github.io/ebook_nodejs/

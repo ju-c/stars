@@ -222,7 +222,6 @@
 - [nemild/hack-the-media](https://github.com/nemild/hack-the-media) - This repo collects examples of intentional and unintentional hacks of media sources
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ethereum/wiki](https://github.com/ethereum/wiki) - The Ethereum Wiki
 
 ## Python 
 

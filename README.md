@@ -366,7 +366,7 @@
 - [MetaMetricsInc/django-warrant](https://github.com/MetaMetricsInc/django-warrant) - Django package that uses AWS Cognito and Warrant to create a Django backend and common views.
 - [MattSegal/django-pytest-github-actions](https://github.com/MattSegal/django-pytest-github-actions) - Minimal example of getting Django + PyTest running on GitHub Actions
 - [operatorequals/git-course](https://github.com/operatorequals/git-course) - An interactive course to git
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [adamghill/django-fbv](https://github.com/adamghill/django-fbv) - Utilities to make function-based views cleaner, more efficient, and better tasting.
 - [adamghill/djangocon-eu-2021-conference-talk](https://github.com/adamghill/djangocon-eu-2021-conference-talk) - Code, slides, scripts and other notes for my DjangoCon EU 2021 talk.
 - [drpancake/chard](https://github.com/drpancake/chard) - A simple async/await task queue for Django. One process, no threads, no other dependencies.

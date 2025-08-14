@@ -494,7 +494,7 @@
 - [adamghill/coltrane](https://github.com/adamghill/coltrane) - A minimal app framework for content sites.
 - [pyston/pyston](https://github.com/pyston/pyston) - (No longer maintained) A faster and highly-compatible implementation of the Python programming language.
 - [iMerica/dj-rest-auth](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework
-- [django-oauth/django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - [Currently being transferred out of Jazzband] OAuth2 goodies for the Djangonauts!
+- [django-oauth/django-oauth-toolkit](https://github.com/django-oauth/django-oauth-toolkit) - OAuth2 goodies for the Djangonauts!
 - [rsinger86/django-lifecycle](https://github.com/rsinger86/django-lifecycle) - Declarative model lifecycle hooks, an alternative to Signals.
 - [xrudelis/pytrait](https://github.com/xrudelis/pytrait) - Traits for Python3
 - [wemake-services/django-test-migrations](https://github.com/wemake-services/django-test-migrations) - Test django schema and data migrations, including migrations' order and best practices.

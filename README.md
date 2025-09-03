@@ -238,7 +238,7 @@
 - [vintasoftware/django-templated-email](https://github.com/vintasoftware/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
 - [epicserve/dj-beat-drop](https://github.com/epicserve/dj-beat-drop) - A CLI for creating new Django projects
 - [buttondown/django-typescript-routes](https://github.com/buttondown/django-typescript-routes) - Generate Typescript routes from a Django URLconf
-- [matthiask/django-admin-ordering](https://github.com/matthiask/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
+- [feincms/django-admin-ordering](https://github.com/feincms/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
 - [jazzband/django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
@@ -273,7 +273,7 @@
 - [dotja/django-example](https://github.com/dotja/django-example) - Django project with various example apps.
 - [Xzya/django-web-components](https://github.com/Xzya/django-web-components) - A simple way to create reusable template components in Django.
 - [anze3db/django-tui](https://github.com/anze3db/django-tui) - Inspect and run Django Commands in a text-based user interface (TUI)
-- [matthiask/django-json-schema-editor](https://github.com/matthiask/django-json-schema-editor) - 
+- [feincms/django-json-schema-editor](https://github.com/feincms/django-json-schema-editor) - 
 - [hbakri/django-ninja-crud](https://github.com/hbakri/django-ninja-crud) - 🧩 Modular, composable API views for scalable Django Ninja projects, with built-in CRUD.
 - [arthurdejong/python-stdnum](https://github.com/arthurdejong/python-stdnum) - A Python library to provide functions to handle, parse and validate standard numbers.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)

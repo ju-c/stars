@@ -220,7 +220,7 @@
 - [JoinMarket-Org/joinmarket](https://github.com/JoinMarket-Org/joinmarket) - CoinJoin implementation with incentive structure to convince people to take part
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns
 - [Consensys/ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
-- [ethereum/remix-ide](https://github.com/ethereum/remix-ide) - Documentation for Remix IDE
+- [remix-project-org/remix-ide](https://github.com/remix-project-org/remix-ide) - Documentation for Remix IDE
 - [nemild/hack-the-media](https://github.com/nemild/hack-the-media) - This repo collects examples of intentional and unintentional hacks of media sources
 - [Scanate/EthList](https://github.com/Scanate/EthList) - The Comprehensive Ethereum Reading List
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics

@@ -261,7 +261,7 @@
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [python-cffi/cffi](https://github.com/python-cffi/cffi) - A Foreign Function Interface package for calling C libraries from Python.
-- [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
+- [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python.
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control th
 - [sloria/environs](https://github.com/sloria/environs) - simplified environment variable parsing

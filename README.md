@@ -379,7 +379,7 @@
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [RezShakeri/django-audio-validator](https://github.com/RezShakeri/django-audio-validator) - Django audio validator that verifies the mime and extension of audio files.
-- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v4.0
+- [matthewwithanm/django-imagekit](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django. Currently v6.0
 - [codingjoe/django-pictures](https://github.com/codingjoe/django-pictures) - Responsive cross-browser image library using modern codes like AVIF & WebP
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [rob32/dev-case](https://github.com/rob32/dev-case) - A privacy-focused and secure CMS, Blog and Portfolio made with Python & Django. Designed with developers and IT professionals in mind.

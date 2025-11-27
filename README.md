@@ -118,6 +118,7 @@
 
 ## JavaScript 
 
+- [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
 - [Urabewe/OllamaVision](https://github.com/Urabewe/OllamaVision) - An extension for SwarmUI that allows you to connect to Ollama, OpenAI, and OpenRouter to use vision models for image analysis to create image prompts.
 - [yudataguy/beatcode](https://github.com/yudataguy/beatcode) - Leetcode space repetition memorization web app
@@ -142,7 +143,6 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [ConsenSysDiligence/surya](https://github.com/ConsenSysDiligence/surya) - A set of utilities for exploring Solidity contracts
-- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood
 - [AugurProject/augur-app](https://github.com/AugurProject/augur-app) - Augur Desktop Electron Application
 - [ethereum/dapp-bin](https://github.com/ethereum/dapp-bin) - A place for all the ÐApps to live
 - [Giveth/vaultcontract](https://github.com/Giveth/vaultcontract) - Timelock vault for securing the payments
@@ -216,6 +216,7 @@
 - [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework) - 💻😍Tools, processes and resources you need to create an awesome API with Django REST Framework
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
 - [pFarb/awesome-crypto-papers](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 - [JoinMarket-Org/joinmarket](https://github.com/JoinMarket-Org/joinmarket) - CoinJoin implementation with incentive structure to convince people to take part
 - [sigp/solidity-security-blog](https://github.com/sigp/solidity-security-blog) - Comprehensive list of known attack vectors and common anti-patterns

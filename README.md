@@ -97,11 +97,12 @@
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [django-crispy-forms/crispy-bootstrap4](https://github.com/django-crispy-forms/crispy-bootstrap4) - Bootstrap 4 template pack for django-crispy-forms
 - [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - ASEA developer support has ended, and the ASEA github repo will be marked Archived (read-only) by the end of 2025.
+- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [globophobe/django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - ✨ Django Semantic UI admin theme
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [OmenApps/django-model-info](https://github.com/OmenApps/django-model-info) - A set of Django Management Commands to help you understand and visualize your project's models
 - [django-crispy-forms/crispy-bootstrap5](https://github.com/django-crispy-forms/crispy-bootstrap5) - Bootstrap5 template pack for django-crispy-forms
-- [danjac/listenwave](https://github.com/danjac/listenwave) - Simple podcast aggregator
+- [danjac/radiofeed-app](https://github.com/danjac/radiofeed-app) - Simple podcast aggregator
 - [life-itself/web3](https://github.com/life-itself/web3) - Making sense of web3 & crypto. Introduction to key concepts and ideas. Rigorous, constructive analysis of key claims pro and con. A look at the deeper hopes and aspirations.
 - [farridav/django-jazzmin](https://github.com/farridav/django-jazzmin) - Jazzy theme for Django
 - [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
@@ -353,7 +354,6 @@
 - [wagtail/django-modelcluster](https://github.com/wagtail/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database
 - [StefanVDWeide/flask-api-template](https://github.com/StefanVDWeide/flask-api-template) - A basic template to help kickstart development of a Flask API
 - [tomwojcik/django-fly.io-example-project](https://github.com/tomwojcik/django-fly.io-example-project) - Example Django project to test the deployment on Fly.io
-- [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [occipital/django-consistency-model](https://github.com/occipital/django-consistency-model) - DCM is a set of tools that helps you to keep your data in your Django Models consistent.
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
 - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.

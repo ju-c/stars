@@ -485,7 +485,7 @@
 - [nicois/nango](https://github.com/nicois/nango) - 
 - [Yetangitu/Spodcast](https://github.com/Yetangitu/Spodcast) - Spodcast is a caching Spotify podcast to RSS proxy. Using Spodcast you can follow Spotify-hosted netcasts/podcasts using any player which supports RSS, thus enabling the use of older hardware which is
 - [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
-- [reactive-python/reactpy-django](https://github.com/reactive-python/reactpy-django) - It's React, but in Python. Now with Django integration.
+- [reactive-python/reactpy-django](https://github.com/reactive-python/reactpy-django) - Django integration for ReactPy
 - [tfranzel/drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [mljar/mercury](https://github.com/mljar/mercury) - Create web apps from Python notebooks
 - [thorin-schiffer/django-plpy](https://github.com/thorin-schiffer/django-plpy) - Django utilities for Postgres PL/Python

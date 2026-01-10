@@ -234,6 +234,7 @@
 - [fabiocaccamo/django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - :gear: config and manage typed extra settings using just the django admin.
 - [selectnull/django-pyrepl](https://github.com/selectnull/django-pyrepl) - Use Python 3.13 REPL with Django shell
 - [ambient-innovation/django-removals](https://github.com/ambient-innovation/django-removals) - Package to check for known Django removals and deprecations
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [vintasoftware/django-templated-email](https://github.com/vintasoftware/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
 - [epicserve/dj-beat-drop](https://github.com/epicserve/dj-beat-drop) - A CLI for creating new Django projects
@@ -570,7 +571,6 @@
 
 ## Svelte 
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 

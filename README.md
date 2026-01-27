@@ -81,7 +81,7 @@
 ## Go 
 
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
@@ -192,7 +192,7 @@
 
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [ju-c/advanced-django-cheat-sheet](https://github.com/ju-c/advanced-django-cheat-sheet) - A cheat sheet for Django.
-- [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - A complete guide to start and improve your LLM skills in 2025 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+- [louisfb01/start-llms](https://github.com/louisfb01/start-llms) - A complete guide to start and improve your LLM skills in 2026 with little background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [st3v3nmw/awesome-django-performance](https://github.com/st3v3nmw/awesome-django-performance) - A curated list of libraries, tools, blog articles, and books to help profile and optimize your Django project
 - [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) - 🚀 A hand-curated list of free, open, and developer-friendly APIs
@@ -349,7 +349,7 @@
 - [simonw/django_sqlite_benchmark](https://github.com/simonw/django_sqlite_benchmark) - Benchmarking Django using SQLite
 - [django-import-export/django-import-export](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 - [lincolnloop/django-production](https://github.com/lincolnloop/django-production) - production settings for Django
-- [openedx/edx-platform](https://github.com/openedx/edx-platform) - The Open edX LMS & Studio, powering education sites around the world!
+- [openedx/openedx-platform](https://github.com/openedx/openedx-platform) - The Open edX LMS & Studio, powering education sites around the world!
 - [HackSoftware/Django-Styleguide-Example](https://github.com/HackSoftware/Django-Styleguide-Example) - Repository for example styleguide project
 - [guettli/django-htmx-fun](https://github.com/guettli/django-htmx-fun) - A small Django application to advertise the fun htmx can bring you
 - [wagtail/django-modelcluster](https://github.com/wagtail/django-modelcluster) - Django extension to allow working with 'clusters' of models as a single unit, independently of the database

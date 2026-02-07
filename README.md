@@ -19,7 +19,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
-- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -97,6 +96,7 @@
 
 - [sehmaschine/django-grappelli](https://github.com/sehmaschine/django-grappelli) - A jazzy skin for the Django Admin-Interface (official repository).
 - [django-crispy-forms/crispy-bootstrap4](https://github.com/django-crispy-forms/crispy-bootstrap4) - Bootstrap 4 template pack for django-crispy-forms
+- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [aws-samples/aws-secure-environment-accelerator](https://github.com/aws-samples/aws-secure-environment-accelerator) - ASEA developer support has ended, and the ASEA github repo will be marked Archived (read-only) by the end of 2025.
 - [danirus/django-comments-xtd](https://github.com/danirus/django-comments-xtd) - A pluggable Django comments application with thread support, follow-up notifications, mail confirmation, like/dislike flags, moderation, a ReactJS plugin and Bootstrap 5.3.
 - [globophobe/django-semantic-admin](https://github.com/globophobe/django-semantic-admin) - ✨ Django Semantic UI admin theme
@@ -182,10 +182,6 @@
 - [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [ipazc/mtcnn](https://github.com/ipazc/mtcnn) - MTCNN face detection implementation for TensorFlow, as a PIP package.
 
-## MDX 
-
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
-
 ## Makefile 
 
 - [wodby/docker4python](https://github.com/wodby/docker4python) - Docker-based Python web stack (works for Django)
@@ -236,7 +232,7 @@
 - [saleor/saleor](https://github.com/saleor/saleor) - Saleor Core: the high performance, composable, headless commerce API.
 - [manjurulhoque/doccure](https://github.com/manjurulhoque/doccure) - DocCure is a healthcare appointment management system designed to streamline the connection between doctors and patients. Built with Django and modern web technologies, it simplifies the process of fi
 - [mbi/django-rosetta](https://github.com/mbi/django-rosetta) - Rosetta is a Django application that eases the translation process of your Django projects
-- [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django
+- [RealOrangeOne/django-tasks](https://github.com/RealOrangeOne/django-tasks) - A backport of Django's built in Tasks framework
 - [fabiocaccamo/django-extra-settings](https://github.com/fabiocaccamo/django-extra-settings) - :gear: config and manage typed extra settings using just the django admin.
 - [selectnull/django-pyrepl](https://github.com/selectnull/django-pyrepl) - Use Python 3.13 REPL with Django shell
 - [ambient-innovation/django-removals](https://github.com/ambient-innovation/django-removals) - Package to check for known Django removals and deprecations

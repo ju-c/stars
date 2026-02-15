@@ -401,7 +401,7 @@
 - [django-salesforce/django-salesforce](https://github.com/django-salesforce/django-salesforce) - Salesforce integration for Django's ORM using the SF REST API.
 - [dabapps/django-readers](https://github.com/dabapps/django-readers) - A lightweight function-oriented toolkit for better organisation of business logic and efficient selection and projection of data in Django projects.
 - [pantsbuild/pants](https://github.com/pantsbuild/pants) - The Pants Build System
-- [Lukas-Schillinger/django-queryset-feeler](https://github.com/Lukas-Schillinger/django-queryset-feeler) - Get a better feel for how your django views and serializers are accessing your app's database. Use django-queryset-feeler (dqf) to measure the count, execution time, and raw SQL of your queries from t
+- [Lukas-Schillinger/django-queryset-feeler](https://github.com/Lukas-Schillinger/django-queryset-feeler) - Measure the count, execution time, and raw SQL of your django queries from the command line, ipython shell, or jupyter notebook. No configuration required.
 - [cltrudeau/django-awl](https://github.com/cltrudeau/django-awl) - Miscellaneous django tools
 - [wagtail/wagtail-localize](https://github.com/wagtail/wagtail-localize) - Translation plugin for Wagtail CMS
 - [dulacp/django-accounting](https://github.com/dulacp/django-accounting) - Accounting pluggable app for Django 1.7+ projects

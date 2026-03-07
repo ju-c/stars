@@ -400,7 +400,7 @@
 - [cltrudeau/django-awl](https://github.com/cltrudeau/django-awl) - Miscellaneous django tools
 - [wagtail/wagtail-localize](https://github.com/wagtail/wagtail-localize) - Translation plugin for Wagtail CMS
 - [dulacp/django-accounting](https://github.com/dulacp/django-accounting) - Accounting pluggable app for Django 1.7+ projects
-- [microsoft/mssql-django](https://github.com/microsoft/mssql-django) - The Microsoft Django backend for SQL Server provides a connectivity layer for Django on SQL Server or Azure SQL DB.
+- [microsoft/mssql-django](https://github.com/microsoft/mssql-django) - Django Backend for Microsoft SQL provides a connectivity layer for Django on SQL Server or Azure SQL DB.
 - [mherrmann/django-404-middleware](https://github.com/mherrmann/django-404-middleware) - An alternative to Django's BrokenLinkEmailsMiddleware
 - [artinnok/django-swap-user](https://github.com/artinnok/django-swap-user) - (Beta) Simple and flexible way to swap default Django User
 - [3YOURMIND/django-add-default-value](https://github.com/3YOURMIND/django-add-default-value) - This django Migration Operation can be used to transfer a Fields default value to the database scheme.

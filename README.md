@@ -139,7 +139,6 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
 - [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Finance application that provides more than 60 different alternative data to retail investors
-- [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -511,6 +510,7 @@
 - [epicserve/django-base-site](https://github.com/epicserve/django-base-site) - The Django Base Site is a Django site that is built using the best Django practices and comes with all the common Django packages that you need to jumpstart your next project.
 - [justinmayer/django-autoslug](https://github.com/justinmayer/django-autoslug) - AutoSlugField for Django. Supports (but not does not require) unidecode/pytils for transliteration. Old issue tracker is at Bitbucket: https://bitbucket.org/neithere/django-autoslug/issues
 - [Andrew-Chen-Wang/cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) - Deploying a Django project to AWS using GitHub Actions and CodeDeploy Blue/Green Deployment + EC2  (Works w/ Flask/FastAPI/Rails)
+- [mixxorz/slippers](https://github.com/mixxorz/slippers) - A UI component framework for Django. Built on top of Django Template Language.
 - [careercup/CtCI-6th-Edition-Python](https://github.com/careercup/CtCI-6th-Edition-Python) - Cracking the Coding Interview 6th Ed. Python Solutions
 - [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [fedecalendino/nintendeals](https://github.com/fedecalendino/nintendeals) - Library with a set of tools for scraping information about Nintendo games and its prices across all regions (NA, EU and JP).

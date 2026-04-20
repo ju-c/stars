@@ -208,7 +208,7 @@
 - [ju-c/software-engineering-at-google](https://github.com/ju-c/software-engineering-at-google) - My arbitrary selection of quotes and notes on the book Software engineering at Google.
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
 - [syndrizzle/hotfiles](https://github.com/syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made.
-- [nucliweb/image-element](https://github.com/nucliweb/image-element) - Repository to collect best practices for web images 🏞
+- [nucliweb/image-element](https://github.com/nucliweb/image-element) - Repository to curated best practices for web images 🏞
 - [dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions) - Grokking the Coding Interview: Patterns for Coding Questions Alternative
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [dabeaz/python-distilled](https://github.com/dabeaz/python-distilled) - Resources for Python Distilled (Book)

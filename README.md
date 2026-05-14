@@ -142,7 +142,7 @@
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - [ConsenSysDiligence/surya](https://github.com/ConsenSysDiligence/surya) - A set of utilities for exploring Solidity contracts
 - [AugurProject/augur-app](https://github.com/AugurProject/augur-app) - Augur Desktop Electron Application
 - [ethereum/dapp-bin](https://github.com/ethereum/dapp-bin) - A place for all the ÐApps to live

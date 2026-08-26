@@ -357,7 +357,6 @@
 - [ekzhang/inline-sql](https://github.com/ekzhang/inline-sql) - 🪄 Inline SQL in any Python program
 - [django-compressor/django-compressor](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 - [render-examples/django](https://github.com/render-examples/django) - Getting Started wth Django on Render Example
-- [jedie/django-tools](https://github.com/jedie/django-tools) - miscellaneous django tools
 - [liminspace/django-mjml](https://github.com/liminspace/django-mjml) - The simplest way to use MJML in Django templates.
 - [skorokithakis/django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework. ⛺
 - [python/cpython](https://github.com/python/cpython) - The Python programming language

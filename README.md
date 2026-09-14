@@ -135,7 +135,7 @@
 - [spookylukey/django-htmx-patterns](https://github.com/spookylukey/django-htmx-patterns) - Pattern repository for Django and htmx with full example code
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner
+- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Open-source JavaScript cookie consent manager for GDPR / RGPD. Customizable banner, service-level controls and Google Consent Mode v2 support.
 - [guanquann/Stocksera](https://github.com/guanquann/Stocksera) - Finance application that provides more than 60 different alternative data to retail investors
 - [adamchainz/django-htmx](https://github.com/adamchainz/django-htmx) - Extensions for using Django with htmx.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.

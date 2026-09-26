@@ -110,7 +110,7 @@
 
 ## Haskell 
 
-- [Consensys-Incorporated/constellation](https://github.com/Consensys-Incorporated/constellation) - Peer-to-peer encrypted message exchange
+- [Consensys-inc-archive/constellation](https://github.com/Consensys-inc-archive/constellation) - Peer-to-peer encrypted message exchange
 
 ## Java 
 
@@ -156,7 +156,7 @@
 - [enzymefinance/oyente](https://github.com/enzymefinance/oyente) - An Analysis Tool for Smart Contracts
 - [ethereum/mist](https://github.com/ethereum/mist) - [DEPRECATED] Mist. Browse and use Ðapps on the Ethereum network.
 - [raineorshine/solidity-by-example](https://github.com/raineorshine/solidity-by-example) - A collection of short yet fully-functional contracts that demonstrate Solidity language features.
-- [Consensys-Incorporated/cakeshop](https://github.com/Consensys-Incorporated/cakeshop) - An integrated development environment and SDK for Ethereum-like ledgers
+- [Consensys-inc-archive/cakeshop](https://github.com/Consensys-inc-archive/cakeshop) - An integrated development environment and SDK for Ethereum-like ledgers
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [Consensys/eth-lightwallet](https://github.com/Consensys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
 - [Consensys/Tokens](https://github.com/Consensys/Tokens) - Ethereum Token Contracts

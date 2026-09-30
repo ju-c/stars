@@ -538,6 +538,7 @@
 - [ivicanikolicsg/MAIAN](https://github.com/ivicanikolicsg/MAIAN) - MAIAN: automatic tool for finding trace vulnerabilities in Ethereum smart contracts
 - [ethereum/EIPs](https://github.com/ethereum/EIPs) - The Ethereum Improvement Proposal repository
 - [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 
 ## Ruby 
 
@@ -560,7 +561,6 @@
 - [jdbit/django-auto-deploy](https://github.com/jdbit/django-auto-deploy) - Deploy a Django website in one click with this bash script (Nginx, Gunicorn, MySQL/MariaDB/PostgreSQL)
 - [feldroy/django-crash-course](https://github.com/feldroy/django-crash-course) - The issue tracker and code repository for Django Crash Course
 - [Someguy123/eos-docker](https://github.com/Someguy123/eos-docker) - EOS in a box (easy install) (Ported from steem-docker)
-- [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) - 
 
 ## Solidity 
 
@@ -579,7 +579,7 @@
 ## TypeScript 
 
 - [airform/airform](https://github.com/airform/airform) - Functional HTML forms for Front-End Developers.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!

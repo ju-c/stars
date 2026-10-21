@@ -284,7 +284,7 @@
 - [lekjos/django-custom-admin-pages](https://github.com/lekjos/django-custom-admin-pages) - A Django app that allows you to register class-based views to appear in Django admin.
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [jazzband/djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - A JSON Web Token authentication plugin for the Django REST Framework.
-- [jazzband/django-rest-knox](https://github.com/jazzband/django-rest-knox) - Authentication Module for django rest auth
+- [django-commons/django-rest-knox](https://github.com/django-commons/django-rest-knox) - Authentication Module for django rest auth
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto3 and the AWS CLI.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data

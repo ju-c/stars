@@ -237,7 +237,7 @@
 - [epicserve/dj-beat-drop](https://github.com/epicserve/dj-beat-drop) - A CLI for creating new Django projects
 - [buttondown/django-typescript-routes](https://github.com/buttondown/django-typescript-routes) - Generate Typescript routes from a Django URLconf
 - [feincms/django-admin-ordering](https://github.com/feincms/django-admin-ordering) - Drag-drop orderable change lists and inlines done right.
-- [jazzband/django-axes](https://github.com/jazzband/django-axes) - Keep track of failed login attempts in Django-powered sites.
+- [django-commons/django-axes](https://github.com/django-commons/django-axes) - Keep track of failed login attempts in Django-powered sites.
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [gauge-sh/bridge](https://github.com/gauge-sh/bridge) - Automatic infrastructure for Django
 - [rails-inspire-django/django-viewcomponent](https://github.com/rails-inspire-django/django-viewcomponent) - Build reusable components in Django, inspired by Rails ViewComponent

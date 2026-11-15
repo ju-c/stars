@@ -75,7 +75,7 @@
 
 ## Dockerfile 
 
-- [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
+- [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Images for Node.js :whale: :turtle: :rocket:
 - [omerbsezer/Fast-Docker](https://github.com/omerbsezer/Fast-Docker) - This repo covers containerization and Docker Environment: Docker File, Image, Container, Commands, Volumes, Networks, Swarm, Stack, Service, possible scenarios.
 
 ## Go 
